@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   "use strict";
   const app = document.querySelector("[data-preview-app]");
   if (!app) return;

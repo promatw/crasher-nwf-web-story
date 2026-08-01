@@ -1,4 +1,3 @@
-﻿User-agent: *
+User-agent: *
 Disallow:
-Sitemap: https://promatw.github.io/crasher-nwf-web-story/sitemap.xml
-
+Sitemap: https://healthtreetw.org/crasher-nwf-web-story/sitemap.xml

@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   "use strict";
   const api = {};
   api.scaledFontSize = (stage, data, box) => {

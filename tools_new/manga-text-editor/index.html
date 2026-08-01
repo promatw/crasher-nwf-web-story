@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
@@ -17,24 +17,24 @@
     <header class="app-header">
       <div>
         <div class="header-status-row">
-          <p class="eyebrow">Local production tool 繚 tools_new V0.1</p>
-          <span class="save-state" data-save-state>撌脰???/span>
+          <p class="eyebrow">Local production tool · tools_new V0.1</p>
+          <span class="save-state" data-save-state>已載入</span>
         </div>
         <h1>Crasher Manga Text Layer Editor</h1>
-        <p class="subtitle">tools_new 繚 episode-driven 繚 zh-tw</p>
-        <div class="episode-switch" role="group" aria-label="?豢?閰望" data-episode-switch></div>
-        <div class="page-switch" role="group" aria-label="?豢??" data-page-switch></div>
+        <p class="subtitle">tools_new · episode-driven · zh-tw</p>
+        <div class="episode-switch" role="group" aria-label="選擇話數" data-episode-switch></div>
+        <div class="page-switch" role="group" aria-label="選擇頁面" data-page-switch></div>
       </div>
-      <div class="mode-switch" role="group" aria-label="璅∪???">
-        <button type="button" class="is-active" data-mode="edit">蝺刻摩</button>
-        <button type="button" data-mode="preview">?汗</button>
+      <div class="mode-switch" role="group" aria-label="模式切換">
+        <button type="button" class="is-active" data-mode="edit">編輯</button>
+        <button type="button" data-mode="preview">預覽</button>
       </div>
     </header>
 
     <section class="workspace">
-      <aside class="control-panel" aria-label="瞍怎???惜?批?Ｘ">
+      <aside class="control-panel" aria-label="漫畫文字圖層控制面板">
         <section class="panel-section">
-          <h2>撠?鞈?</h2>
+          <h2>專案資料</h2>
           <div class="field-grid">
             <label>Project<input data-meta="project" value="crasher-nwf" readonly></label>
             <label>Chapter<input data-meta="chapter" value="ch02" readonly></label>
@@ -43,7 +43,7 @@
             <label>Version<input data-meta="version" value="v01" readonly></label>
             <label>Locale<input data-meta="locale" value="zh-tw" readonly></label>
           </div>
-          <label class="full-field">?臬瑼?
+          <label class="full-field">匯出檔名
             <output data-filename>c_nwf_ch02_ep21_001_p01_text_zh-tw_v01.json</output>
           </label>
           <dl class="metadata-summary" data-metadata-summary></dl>
@@ -51,36 +51,36 @@
 
         <section class="panel-section">
           <div class="section-heading">
-            <h2>??獢???/h2>
-            <button type="button" class="primary-action" data-add-box>憓???獢?/button>
+            <h2>文字框清單</h2>
+            <button type="button" class="primary-action" data-add-box>增加文字框</button>
           </div>
-          <div class="box-list" data-box-list aria-label="??獢???></div>
-          <div class="empty-state" data-empty-state hidden>?桀?瘝???獢?/div>
+          <div class="box-list" data-box-list aria-label="文字框清單"></div>
+          <div class="empty-state" data-empty-state hidden>目前沒有文字框。</div>
         </section>
 
         <section class="panel-section">
-          <h2>撱箄降?啗?</h2>
-          <p class="seed-help">tools_new 銝???seed嚗P21 placeholder disabled嚗P22 / EP23 draft candidate ? HM ??憟??/p>
+          <h2>建議台詞</h2>
+          <p class="seed-help">tools_new 不自動匯入 seed；EP21 placeholder disabled，EP22 / EP23 draft candidate 需 HM 手動套用。</p>
           <div class="seed-list" data-seed-list></div>
           <p class="status-line" data-seed-status></p>
         </section>
 
         <section class="panel-section box-controls" data-box-controls>
           <div class="selected-heading">
-            <div><span class="field-caption">?桀??詨?</span><strong data-selected-id></strong></div>
-            <button type="button" class="danger-icon" data-remove-box title="蝘駁?桀???獢? aria-label="蝘駁?桀???獢?>?</button>
+            <div><span class="field-caption">目前選取</span><strong data-selected-id></strong></div>
+            <button type="button" class="danger-icon" data-remove-box title="移除目前文字框" aria-label="移除目前文字框">×</button>
           </div>
-          <label class="full-field">??<textarea rows="4" data-box-text></textarea></label>
+          <label class="full-field">文字<textarea rows="4" data-box-text></textarea></label>
           <div class="field-grid">
             <label>Type<select data-box-type><option value="caption">caption</option><option value="dialogue">dialogue</option><option value="reaction">reaction</option><option value="unknown">unknown</option></select></label>
-            <label>Speaker<input data-box-speaker placeholder="靘? narration"></label>
+            <label>Speaker<input data-box-speaker placeholder="例如 narration"></label>
             <label>Reading order<input type="number" min="1" step="1" data-reading-order></label>
             <label>Font size<input type="number" min="10" max="72" step="1" data-font-size></label>
             <label>Shape<select data-box-shape><option value="text-only">text-only</option><option value="rectangle">rectangle</option><option value="ellipse">ellipse</option></select></label>
             <label>Text align<select data-text-align><option value=left>left</option><option value=center>center</option><option value=right>right</option></select></label>
           </div>
           <label class="full-field">Note<input data-box-note></label>
-          <div class="coordinate-grid" aria-label="??獢漣璅?>
+          <div class="coordinate-grid" aria-label="文字框座標">
             <label>x (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="x"></label>
             <label>y (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="y"></label>
             <label>width (%)<input type="number" min="4" max="100" step="0.01" data-coordinate-input="width"></label>
@@ -90,8 +90,8 @@
         </section>
 
         <section class="panel-section">
-          <h2>?梯??汗</h2>
-          <div class="preview-sizes" role="group" aria-label="?汗撖砍漲">
+          <h2>閱讀預覽</h2>
+          <div class="preview-sizes" role="group" aria-label="預覽寬度">
             <button type="button" class="is-active" data-preview-width="fit">Fit width</button>
             <button type="button" data-preview-width="390">390</button>
             <button type="button" data-preview-width="430">430</button>
@@ -102,21 +102,21 @@
         </section>
 
         <section class="panel-section">
-          <h2>?脣??炎??/h2>
+          <h2>儲存與檢查</h2>
           <div class="action-grid">
-            <button type="button" data-save>?怠?</button>
-            <button type="button" data-export>?臬 JSON</button>
-            <label class="file-action">?臬 JSON<input type="file" accept="application/json,.json" data-import></label>
-            <button type="button" data-reset>?身?祇?鞈?</button>
+            <button type="button" data-save>暫存</button>
+            <button type="button" data-export>匯出 JSON</button>
+            <label class="file-action">匯入 JSON<input type="file" accept="application/json,.json" data-import></label>
+            <button type="button" data-reset>重設本頁資料</button>
           </div>
-          <label class="full-field utf-field">UTF-8 皜祈岫摮葡<input value="皜祈岫銝剜?嚗?銝?渲?蝒????嚗? data-utf-input></label>
-          <button type="button" data-utf-test>?瑁? UTF-8 round-trip</button>
+          <label class="full-field utf-field">UTF-8 測試字串<input value="測試中文：上一場衝突，還在震。！？「」" data-utf-input></label>
+          <button type="button" data-utf-test>執行 UTF-8 round-trip</button>
           <p class="status-line" data-utf-status></p>
           <p class="status-line" aria-live="polite" data-app-status></p>
         </section>
       </aside>
 
-      <section class="canvas-panel" aria-label="瞍怎???惜?怠?">
+      <section class="canvas-panel" aria-label="漫畫文字圖層畫布">
         <div class="preview-frame" data-preview-frame>
           <div class="manga-stage" data-stage>
             <img src="/crasher-nwf-web-story/images/manga_new/editor/c_nwf_ch02_ep21_001_p01_v02.png" width="1024" height="1536" alt="EP21 001 p01 clean art" data-art>
@@ -131,4 +131,3 @@
   <script src="/crasher-nwf-web-story/js/tools-new-manga-text-editor.js" defer></script>
 </body>
 </html>
-

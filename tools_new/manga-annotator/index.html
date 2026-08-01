@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
@@ -15,24 +15,24 @@
     <header class="app-header">
       <div>
         <div class="header-status-row">
-          <p class="eyebrow">Local production tool 繚 tools_new Annotator V0.1</p>
-          <span class="save-state" data-save-state>撌脰???/span>
+          <p class="eyebrow">Local production tool · tools_new Annotator V0.1</p>
+          <span class="save-state" data-save-state>已載入</span>
         </div>
         <h1>Crasher Manga Revision Annotator</h1>
-        <p class="subtitle" data-subtitle>tools_new 繚 revision annotation 繚 candidate only</p>
-        <div class="episode-switch" role="group" aria-label="?豢?閰望" data-episode-switch></div>
-        <div class="page-switch" role="group" aria-label="?豢??" data-page-switch></div>
+        <p class="subtitle" data-subtitle>tools_new · revision annotation · candidate only</p>
+        <div class="episode-switch" role="group" aria-label="選擇話數" data-episode-switch></div>
+        <div class="page-switch" role="group" aria-label="選擇頁面" data-page-switch></div>
       </div>
-      <div class="mode-switch" role="group" aria-label="璅∪???">
-        <button type="button" class="is-active" data-mode="annotate">璅酉</button>
-        <button type="button" data-mode="preview">?汗</button>
+      <div class="mode-switch" role="group" aria-label="模式切換">
+        <button type="button" class="is-active" data-mode="annotate">標註</button>
+        <button type="button" data-mode="preview">預覽</button>
       </div>
     </header>
 
     <section class="workspace">
-      <aside class="control-panel" aria-label="瞍怎靽桀?璅酉?批?Ｘ">
+      <aside class="control-panel" aria-label="漫畫修圖標註控制面板">
         <section class="panel-section">
-          <h2>撠?鞈?</h2>
+          <h2>專案資料</h2>
           <div class="field-grid">
             <label>Project<input data-meta="project" value="crasher-nwf" readonly></label>
             <label>Chapter<input data-meta="chapter" value="ch02" readonly></label>
@@ -41,10 +41,10 @@
             <label>Revision round<input data-meta="revisionRound" value="r01"></label>
             <label>Locale<input data-meta="locale" value="zh-tw" readonly></label>
           </div>
-          <label class="full-field">Annotation JSON 瑼?
+          <label class="full-field">Annotation JSON 檔名
             <output data-json-filename></output>
           </label>
-          <label class="full-field">Task pack 瑼?
+          <label class="full-field">Task pack 檔名
             <output data-task-filename></output>
           </label>
           <dl class="metadata-summary" data-metadata-summary></dl>
@@ -52,40 +52,40 @@
 
         <section class="panel-section">
           <div class="section-heading">
-            <h2>璅酉皜</h2>
-            <button type="button" class="primary-action" data-add-annotation>?啣?璅酉</button>
+            <h2>標註清單</h2>
+            <button type="button" class="primary-action" data-add-annotation>新增標註</button>
           </div>
-          <div class="box-list" data-annotation-list aria-label="璅酉皜"></div>
-          <div class="empty-state" data-empty-state hidden>?桀?瘝?璅酉??/div>
+          <div class="box-list" data-annotation-list aria-label="標註清單"></div>
+          <div class="empty-state" data-empty-state hidden>目前沒有標註。</div>
         </section>
 
         <section class="panel-section" data-annotation-controls>
           <div class="selected-heading">
-            <div><span class="field-caption">?桀??詨?</span><strong data-selected-id></strong></div>
-            <button type="button" class="danger-icon" data-remove-annotation title="蝘駁?桀?璅酉" aria-label="蝘駁?桀?璅酉">?</button>
+            <div><span class="field-caption">目前選取</span><strong data-selected-id></strong></div>
+            <button type="button" class="danger-icon" data-remove-annotation title="移除目前標註" aria-label="移除目前標註">×</button>
           </div>
           <div class="field-grid">
-            <label>??憿?
+            <label>問題類型
               <select data-category>
-                <option value="character_ip_face_hair">鈭箇???垣??蝚血? IP</option>
-                <option value="character_ip_clothing">鈭箇??甈曉??敦蝭銝泵??IP</option>
-                <option value="character_expression">銵冽?銝泵???脣扳???</option>
-                <option value="character_position_swap">鈭箇雿蔭?撠矽</option>
-                <option value="remove_extra_character">?芷憭?鈭箇</option>
-                <option value="remove_extra_background">?芷憭????</option>
-                <option value="scene_continuity">?湔??敺?銝?疵</option>
-                <option value="vehicle_or_device_design">頛 / 鋆蔭??銝???/option>
-                <option value="keep_dialogue_space">?閬??閰征?賢?</option>
-                <option value="no_new_character">銝??啣?憿?閫</option>
-                <option value="keep_storyboard">銝??寡?????/option>
-                <option value="other">?嗡?嚗???note</option>
+                <option value="character_ip_face_hair">人物臉型或髮型不符合 IP</option>
+                <option value="character_ip_clothing">人物服裝款式或細節不符合 IP</option>
+                <option value="character_expression">表情不符合角色個性或情境</option>
+                <option value="character_position_swap">人物位置需對調</option>
+                <option value="remove_extra_character">刪除多餘人物</option>
+                <option value="remove_extra_background">刪除多餘背景元素</option>
+                <option value="scene_continuity">場景與前後頁不連貫</option>
+                <option value="vehicle_or_device_design">載具 / 裝置造型不一致</option>
+                <option value="keep_dialogue_space">需要保留台詞空白區</option>
+                <option value="no_new_character">不要新增額外角色</option>
+                <option value="keep_storyboard">不要改變原分鏡</option>
+                <option value="other">其他，請看 note</option>
               </select>
             </label>
-            <label>Target<input data-target placeholder="靘? ?瑁?憭?/ ?喲鈭?></label>
+            <label>Target<input data-target placeholder="例如 雷蒙多 / 石頭人"></label>
           </div>
-          <label class="full-field">蝵隤芣?<textarea rows="3" data-preset></textarea></label>
-          <label class="full-field">鋆? note<textarea rows="4" data-note></textarea></label>
-          <div class="coordinate-grid" aria-label="璅酉獢漣璅?>
+          <label class="full-field">罐頭說明<textarea rows="3" data-preset></textarea></label>
+          <label class="full-field">補充 note<textarea rows="4" data-note></textarea></label>
+          <div class="coordinate-grid" aria-label="標註框座標">
             <label>x (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="x"></label>
             <label>y (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="y"></label>
             <label>width (%)<input type="number" min="4" max="100" step="0.01" data-coordinate-input="width"></label>
@@ -94,25 +94,25 @@
         </section>
 
         <section class="panel-section">
-          <h2>?祇?摰??/h2>
-          <p class="seed-help">?暸?祆活靽桀??閬?蝯?MGA1 ??reference asset?葉???冗蝯虫犖憿?嚗極?瑁撓??stable assetId??/p>
+          <h2>本頁定錨圖</h2>
+          <p class="seed-help">勾選本次修圖需要附給 MGA1 的 reference asset。中文資料夾給人類看，工具輸出 stable assetId。</p>
           <div class="reference-list" data-reference-list></div>
           <p class="status-line" data-reference-status></p>
         </section>
 
         <section class="panel-section">
-          <h2>頛詨</h2>
+          <h2>輸出</h2>
           <div class="action-grid">
-            <button type="button" data-save>?怠?</button>
-            <button type="button" data-export-json>?臬 JSON</button>
-            <button type="button" data-export-task>?臬 task pack</button>
-            <button type="button" data-reset>?身?祇?</button>
+            <button type="button" data-save>暫存</button>
+            <button type="button" data-export-json>匯出 JSON</button>
+            <button type="button" data-export-task>匯出 task pack</button>
+            <button type="button" data-reset>重設本頁</button>
           </div>
           <p class="status-line" aria-live="polite" data-app-status></p>
         </section>
       </aside>
 
-      <section class="canvas-panel" aria-label="瞍怎靽桀?璅酉?怠?">
+      <section class="canvas-panel" aria-label="漫畫修圖標註畫布">
         <div class="preview-frame" data-preview-frame>
           <div class="manga-stage annotation-stage" data-stage>
             <img src="/crasher-nwf-web-story/images/manga_new/editor/c_nwf_ch02_ep24_001_p01a_art_v02.png" alt="clean art" data-art>
@@ -126,5 +126,4 @@
   <script src="/crasher-nwf-web-story/js/tools-new-manga-annotator.js" defer></script>
 </body>
 </html>
-
 

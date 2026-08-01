@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   "use strict";
 
   const app = document.querySelector("[data-editor-app]");
@@ -134,9 +134,9 @@ const els = {
     els.status.className = `status-line is-${kind}`;
   }
 
-  function setDirty(dirty = true, cleanLabel = "撌脰???) {
+  function setDirty(dirty = true, cleanLabel = "已載入") {
     isDirty = dirty;
-    els.saveState.textContent = dirty ? "?芸?? : cleanLabel;
+    els.saveState.textContent = dirty ? "未匯出" : cleanLabel;
     els.saveState.className = `save-state is-${dirty ? "dirty" : "loaded"}`;
   }
 
@@ -256,7 +256,7 @@ const els = {
     button.addEventListener("click", () => applySeed(seed.seedId || ""));
     button.textContent = `${seed.readingOrder || "?"}. ${seed.text || ""}`;
     const meta = document.createElement("small");
-    meta.textContent = `${seed.type || "unknown"} 繚 ${seed.speaker || "unknown"} 繚 ${seed.confidence || "inferred"}${seed.needsReview ? " 繚 needs HM review" : ""}`;
+    meta.textContent = `${seed.type || "unknown"} · ${seed.speaker || "unknown"} · ${seed.confidence || "inferred"}${seed.needsReview ? " · needs HM review" : ""}`;
     button.append(document.createElement("br"), meta);
     return button;
   }
@@ -296,21 +296,21 @@ const els = {
   async function applySeed(seedId) {
     const box = selectedBox();
     if (!box) {
-      setStatus("隢??詨?銝??摮?嚗?憟??啗???, "error");
+      setStatus("請先選取一個文字框，再套用候選台詞。", "error");
       return;
     }
     const doc = await getSeedDoc(state.episode);
     const seed = seedItemsForPage(doc, state.page).find((item) => item.seedId === seedId);
     if (!seed) return;
     if (box.text && box.text !== seed.text) {
-      const ok = confirm("?桀???獢歇??摮?衣 seed candidate 閬????嚗?);
+      const ok = confirm("目前文字框已有文字。是否用 seed candidate 覆蓋這個選取框？");
       if (!ok) return;
     }
     const nextNote = [seed.note, seed.confidence ? `confidence=${seed.confidence}` : "", seed.needsReview ? "needsReview=true" : ""].filter(Boolean).join("; ");
     const nextReadingOrder = Number(seed.readingOrder) || box.readingOrder;
     const changed = box.text !== (seed.text || "") || box.type !== (seed.type || box.type) || box.speaker !== (seed.speaker || null) || box.readingOrder !== nextReadingOrder || box.note !== nextNote;
     if (!changed) {
-      setStatus(`?撌脣 ${box.id}嚗霈?);
+      setStatus(`候選已在 ${box.id}，未變更。`);
       return;
     }
     box.text = seed.text || "";
@@ -320,7 +320,7 @@ const els = {
     box.note = nextNote;
     saveLocal(true);
     render();
-    setStatus(`撌脫?????${seed.seedId} ??${box.id}`);
+    setStatus(`已手動套用 ${seed.seedId} 到 ${box.id}`);
   }
   function renderMeta() {
     app.querySelectorAll("[data-meta]").forEach((input) => {
@@ -328,7 +328,7 @@ const els = {
     });
     const pc = pageConfig();
     els.filename.textContent = filename();
-    els.subtitle.textContent = `${state.episode.toUpperCase()} ${pc.label || state.page} 繚 ${state.locale} 繚 ${state.source.assetType || "manga-page"}${episodes[state.episode].seedEnabled ? "" : " 繚 seed disabled"}`;
+    els.subtitle.textContent = `${state.episode.toUpperCase()} ${pc.label || state.page} · ${state.locale} · ${state.source.assetType || "manga-page"}${episodes[state.episode].seedEnabled ? "" : " · seed disabled"}`;
     const rows = [
       ["project", state.project],
       ["chapter", state.chapter],
@@ -439,7 +439,7 @@ const els = {
       if (seen.has(order)) duplicates.push(order);
       seen.set(order, box.id);
     });
-    els.readingOrderStatus.textContent = duplicates.length ? `readingOrder ??嚗?{[...new Set(duplicates)].join(", ")}` : "readingOrder 甇?虜";
+    els.readingOrderStatus.textContent = duplicates.length ? `readingOrder 重複：${[...new Set(duplicates)].join(", ")}` : "readingOrder 正常";
     els.readingOrderStatus.className = `status-line is-${duplicates.length ? "error" : "ok"}`;
   }
 
@@ -453,7 +453,7 @@ const els = {
       node.classList.toggle("is-overflowing", overflow);
       if (overflow) ids.push(box.id);
     });
-    els.overflow.textContent = ids.length ? `overflow: ${ids.join(", ")}` : `${state.boxes.length} boxes 繚 no overflow`;
+    els.overflow.textContent = ids.length ? `overflow: ${ids.join(", ")}` : `${state.boxes.length} boxes · no overflow`;
     els.overflow.className = `status-line is-${ids.length ? "error" : "ok"}`;
     return ids;
   }
@@ -481,7 +481,7 @@ const els = {
     loadLocal();
     render();
     setDirty(false);
-    setStatus(`撌脣???${state.episode.toUpperCase()} ${page}`);
+    setStatus(`已切換 ${state.episode.toUpperCase()} ${page}`);
   }
 
   function loadEpisode(ep) {
@@ -491,7 +491,7 @@ const els = {
     loadLocal();
     render();
     setDirty(false);
-    setStatus(`撌脣???${ep.toUpperCase()}`);
+    setStatus(`已切換 ${ep.toUpperCase()}`);
   }
 
   function updateSelected(change, rerender = false) {
@@ -515,7 +515,7 @@ const els = {
     selectedBoxId = box.id;
     saveLocal(true);
     render();
-    setStatus(`撌脫憓?${box.id}`);
+    setStatus(`已新增 ${box.id}`);
   }
 
   function removeBox() {
@@ -525,7 +525,7 @@ const els = {
     selectedBoxId = state.boxes[0]?.id || null;
     saveLocal(true);
     render();
-    setStatus(`撌脩宏??${box.id}`);
+    setStatus(`已移除 ${box.id}`);
   }
 
   function exportJson() {
@@ -539,8 +539,8 @@ const els = {
     anchor.download = filename();
     anchor.click();
     setTimeout(() => URL.revokeObjectURL(url), 0);
-    setDirty(false, "撌脣??);
-    setStatus(`撌脣?綽?${filename()}`);
+    setDirty(false, "已匯出");
+    setStatus(`已匯出：${filename()}`);
   }
 
   async function importJson(file) {
@@ -549,18 +549,18 @@ const els = {
       const text = (await file.text()).replace(/^\uFEFF/, "");
       const doc = validate(JSON.parse(text));
       if (doc.episode !== state.episode || doc.page !== state.page) {
-        const ok = confirm(`?臬瑼???${doc.episode} ${doc.page}嚗???Ｘ ${state.episode} ${state.page}??閬??亙?嚗);
+        const ok = confirm(`匯入檔案是 ${doc.episode} ${doc.page}，目前頁面是 ${state.episode} ${state.page}。仍要載入嗎？`);
         if (!ok) return;
       }
       state = doc;
       selectedBoxId = state.boxes[0]?.id || null;
       saveLocal(false);
       render();
-      setDirty(false, "撌脣??);
-      window.setTimeout(() => setDirty(false, "撌脣??), 0);
-      setStatus(`撌脣?伐?${file.name}`);
+      setDirty(false, "已匯入");
+      window.setTimeout(() => setDirty(false, "已匯入"), 0);
+      setStatus(`已匯入：${file.name}`);
     } catch (error) {
-      setStatus(`?臬憭望?嚗?{error.message}`, "error");
+      setStatus(`匯入失敗：${error.message}`, "error");
     } finally {
       els.importInput.value = "";
     }
@@ -568,8 +568,8 @@ const els = {
 
   function runUtf() {
     const value = els.utfInput.value;
-    const ok = JSON.parse(JSON.stringify({ value })).value === value && !value.includes("嚙?);
-    els.utfStatus.textContent = ok ? "UTF-8 round-trip ??" : "UTF-8 round-trip 憭望?";
+    const ok = JSON.parse(JSON.stringify({ value })).value === value && !value.includes("�");
+    els.utfStatus.textContent = ok ? "UTF-8 round-trip 通過" : "UTF-8 round-trip 失敗";
     els.utfStatus.className = `status-line is-${ok ? "ok" : "error"}`;
   }
 
@@ -621,13 +621,13 @@ const els = {
   }
 
   function resetPage() {
-    if (!confirm("蝣箏?閬?閮剜??localStorage ?怠?鞈?嚗?)) return;
+    if (!confirm("確定要重設本頁 localStorage 暫存資料？")) return;
     localStorage.removeItem(storageKey());
     state = createDefaultState(state.episode, state.page);
     selectedBoxId = null;
     render();
     setDirty(false);
-    setStatus("撌脤?閮剜????);
+    setStatus("已重設本頁資料");
   }
 
   app.addEventListener("click", (event) => {
@@ -660,8 +660,8 @@ const els = {
   app.querySelector("[data-remove-box]").addEventListener("click", removeBox);
   app.querySelector("[data-save]").addEventListener("click", () => {
     saveLocal(false);
-    setDirty(false, "撌脫摮?);
-    setStatus("撌脫摮?);
+    setDirty(false, "已暫存");
+    setStatus("已暫存");
   });
   app.querySelector("[data-export]").addEventListener("click", exportJson);
   app.querySelector("[data-reset]").addEventListener("click", resetPage);
@@ -708,7 +708,6 @@ const els = {
   runUtf();
   setStatus("tools_new editor ready");
 })();
-
 
 
 

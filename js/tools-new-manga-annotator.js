@@ -1,4 +1,4 @@
-﻿(() => {
+(() => {
   "use strict";
 
   const app = document.querySelector("[data-annotator-app]");
@@ -426,4 +426,3 @@ app.querySelector("[data-export-task]").addEventListener("click", exportTaskPack
   ensurePreviewButton();
   setStatus("Annotator ready");
 })();
-
