@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "009_p09",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "011V_JP32_P09_好像管用_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_009_p09_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "009",
+    "pageCode": "p09"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "……吃掉？",
+      "box": {
+        "x": 3.8425681800029166,
+        "y": 4.4300176007120795,
+        "width": 22.910749971091228,
+        "height": 9.267166285355179,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "石頭人",
+      "note": "石頭人：「……吃掉？」- 石頭人表情開始變化。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那是……",
+      "box": {
+        "x": 84.37752077557373,
+        "y": 28.867938748627395,
+        "width": 14.664084017044056,
+        "height": 9.51144493571379,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "石頭人",
+      "note": "石頭人：「那是……」- 石頭人壓住情緒。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我的。",
+      "box": {
+        "x": 83.16909348044555,
+        "y": 48.420299189741044,
+        "width": 16.25554084839603,
+        "height": 8.941461418210363,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "石頭人",
+      "note": "石頭人：「我的。」- 石頭人近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "這個方法……",
+      "box": {
+        "x": 3.978915867320845,
+        "y": 46.72048078793937,
+        "width": 18.425713589746543,
+        "height": 9.91857601964481,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「這個方法……」- 雷蒙多小聲對通訊器。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "好像管用。",
+      "box": {
+        "x": 1.4683976432693022,
+        "y": 52.593275946513515,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「好像管用。」- 雷蒙多偷偷比讚。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "一整包都沒剩嗎？",
+      "box": {
+        "x": 78.64137304557812,
+        "y": 1.9872389246345112,
+        "width": 16.400199957322304,
+        "height": 10.325704867144815,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "雷蒙多，不要太過分。",
+      "box": {
+        "x": 83.65413780921958,
+        "y": 67.46384921087531,
+        "width": 15.242784032183911,
+        "height": 9.43001760071208,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": "莉莉",
+      "note": "莉莉：「雷蒙多，不要太過分。」- 莉莉緊張提醒。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b08",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "咚。",
+      "box": {
+        "x": 6.344798824734149,
+        "y": 85.38768755269591,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 50,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "音效",
+      "note": "音效：「咚。」- 大阪端地面輕微震動處。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b09",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "咚。咚。",
+      "box": {
+        "x": 78.39135685269082,
+        "y": 85.31638901375628,
+        "width": 20.017186315957204,
+        "height": 9.674295132855184,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 40,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "音效",
+      "note": "音效：「咚。」- 大阪端地面輕微震動處。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_009_p09_b10",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯。\n沒剩了...",
+      "box": {
+        "x": 1.4683896958399594,
+        "y": 67.24995359405645,
+        "width": 14.808751073399675,
+        "height": 11.221391015362045,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "瑞波",
+      "note": "瑞波：「嗯。」- 通訊畫面瑞波冷靜。; confidence=candidate_from_handoff; needsReview=true"
+    }
+  ]
+}

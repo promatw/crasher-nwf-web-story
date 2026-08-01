@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "001_p01",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "003V_JP32_P01_電話接通_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_001_p01_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "001",
+    "pageCode": "p01"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "雷蒙多!",
+      "box": {
+        "x": 3.9872431837878795,
+        "y": 5.407129686161635,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "莉莉",
+      "note": "莉莉：「雷蒙多？」- 通訊畫面，莉莉附近。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你們在哪裡？",
+      "box": {
+        "x": 3.9362556560861206,
+        "y": 9.895687266432736,
+        "width": 16.689573807180267,
+        "height": 10.895683911786215,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "瑞波",
+      "note": "瑞波：「你們在哪裡？」- 通訊畫面，瑞波附近。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "大阪外圍。",
+      "box": {
+        "x": 1.7150715447458147,
+        "y": 40.60340697900662,
+        "width": 15.676832885826832,
+        "height": 11.05853410892761,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「大阪外圍。」- 雷蒙多拿通訊器近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你們去那裡做什麼？",
+      "box": {
+        "x": 87.65077962295011,
+        "y": 40.13510279755155,
+        "width": 12.349220377049889,
+        "height": 11.465667429289642,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "瑞波",
+      "note": "瑞波：「你們去那裡做什麼？」- 通訊畫面，瑞波反應。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "拯救世界。",
+      "box": {
+        "x": 1.5277204348674378,
+        "y": 72.17642533339597,
+        "width": 14.66407606961471,
+        "height": 10.732833714644821,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「拯救世界。」- 雷蒙多看向城市。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "講正常一點。",
+      "box": {
+        "x": 41.26331263955189,
+        "y": 63.392549553720194,
+        "width": 11.047105605838498,
+        "height": 10.407124374637977,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": "瑞波",
+      "note": "瑞波：「講正常一點。」- 瑞波吐槽泡泡。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_001_p01_b08",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "還有幫朋友。",
+      "box": {
+        "x": 84.4712003042276,
+        "y": 65.11262442943054,
+        "width": 12.78324538840478,
+        "height": 10.895690621079257,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「還有幫朋友。」- 雷蒙多看向石頭人。; confidence=candidate_from_handoff; needsReview=true"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "006_p06",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "008V_JP32_P06_鯛魚燒在澳洲_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_006_p06_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "006",
+    "pageCode": "p06"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那包鯛魚燒……",
+      "box": {
+        "x": 3.408543168648027,
+        "y": 6.954224730006866,
+        "width": 12.783253335834125,
+        "height": 11.954224170899113,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "瑞波",
+      "note": "瑞波：「那包鯛魚燒……」- 澳洲端通訊畫面，瑞波看向旁邊。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯？",
+      "box": {
+        "x": 44.590925148328836,
+        "y": 1.671662853551788,
+        "width": 14.664084017044056,
+        "height": 9.511442699282776,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「嗯？」- 大阪端雷蒙多困惑。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "在我們這。",
+      "box": {
+        "x": 88.51884554051858,
+        "y": 42.55762723615146,
+        "width": 9.600331725700832,
+        "height": 9.18573783213796,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "瑞波",
+      "note": "瑞波：「在我們這裡。」- 澳洲端，瑞波指向房間另一側。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "鯛魚燒正在冰箱吹著涼風。",
+      "box": {
+        "x": 75.4977931975568,
+        "y": 88.65485998823638,
+        "width": 19.438470405958665,
+        "height": 8.290056156782759,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你們託我們拿著的那包...",
+      "box": {
+        "x": 85.8159911815324,
+        "y": 3.3305635135225806,
+        "width": 10.179047635699376,
+        "height": 10.325700394282789,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "莉莉",
+      "note": "莉莉：「你上車前交給我們的。」- 澳洲端莉莉說明。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "很重要。",
+      "box": {
+        "x": 1.961753393651673,
+        "y": 79.91189244555969,
+        "width": 7.14078513449236,
+        "height": 15.536964850013753,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "石頭人",
+      "note": "石頭人：「很重要。」- 石頭人認真近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "冰箱裡放著嗎?",
+      "box": {
+        "x": 44.01220923833029,
+        "y": 67.95240315694602,
+        "width": 11.915195365694997,
+        "height": 11.302811641070713,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "莉莉",
+      "note": "莉莉：「冰箱裡。」- 莉莉跟著看向冰箱。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_006_p06_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "對",
+      "box": {
+        "x": 20.667950044048627,
+        "y": 40.84768227471871,
+        "width": 16.544890855965956,
+        "height": 8.860037437855173,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

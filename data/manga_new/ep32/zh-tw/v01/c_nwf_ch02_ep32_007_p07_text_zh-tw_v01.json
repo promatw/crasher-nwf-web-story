@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "007_p07",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "009V_JP32_P07_瑞波看出反應_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_007_p07_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "007",
+    "pageCode": "p07"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "多多，我想......",
+      "box": {
+        "x": 1.961753393651673,
+        "y": 2.0686651414207153,
+        "width": 13.217294242047704,
+        "height": 10.651408616074125,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "瑞波",
+      "note": "瑞波：「雷蒙多。」- 澳洲端瑞波觀察後開口。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯？",
+      "box": {
+        "x": 53.27163200858958,
+        "y": 0,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「嗯？」- 大阪端雷蒙多反應。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "不用找了。",
+      "box": {
+        "x": 52.20786382238767,
+        "y": 4.938829138906967,
+        "width": 14.519393118400405,
+        "height": 9.918573783213796,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "瑞波",
+      "note": "瑞波：「不用找大理由了。」- 瑞波冷靜判斷。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "什麼意思？",
+      "box": {
+        "x": 38.07206371295157,
+        "y": 30.11970832466716,
+        "width": 15.532149934612525,
+        "height": 10.895686148217228,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「什麼意思？」- 雷蒙多仍未理解。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他已經在意了。",
+      "box": {
+        "x": 44.7865956272449,
+        "y": 52.389917274416796,
+        "width": 13.361961298403322,
+        "height": 12.849908641793082,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "瑞波",
+      "note": "瑞波：「他已經在意了。」- 瑞波看著石頭人。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我沒有。",
+      "box": {
+        "x": 2.4894579336604226,
+        "y": 79.84059558394333,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "石頭人",
+      "note": "石頭人：「我沒有。」- 石頭人否認。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b08",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你有。",
+      "box": {
+        "x": 88.22949553294865,
+        "y": 78.8736069830322,
+        "width": 11.770504467051351,
+        "height": 9.592866679637966,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": "瑞波",
+      "note": "瑞波：「你有。」- 瑞波收尾。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_007_p07_b09",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "不用找，是還在的意思.....",
+      "box": {
+        "x": 86.34868869402676,
+        "y": 29.702454035751586,
+        "width": 13.36196129840332,
+        "height": 11.302814995717235,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 9,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

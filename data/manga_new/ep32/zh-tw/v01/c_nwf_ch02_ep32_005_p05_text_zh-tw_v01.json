@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "005_p05",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "007V_JP32_P05_不是大理由_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_005_p05_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "005",
+    "pageCode": "p05"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "冰起來的那包嗎？",
+      "box": {
+        "x": 2.395786352435907,
+        "y": 3.615757669281055,
+        "width": 11.91517947083631,
+        "height": 9.59286891606898,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我看他那時候小心翼翼地顧著。",
+      "box": {
+        "x": 84.5221957793587,
+        "y": 62.57829074050467,
+        "width": 14.519393118400401,
+        "height": 10.814259931431025,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "還在冰箱嗎？",
+      "box": {
+        "x": 5.187367004737065,
+        "y": 42.883330985080775,
+        "width": 16.68956585975092,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他反應了。",
+      "box": {
+        "x": 2.8214999421824487,
+        "y": 60.48146781440306,
+        "width": 17.26829766460815,
+        "height": 11.547091409644832,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "莉莉",
+      "note": "莉莉：「他反應了。」- 通訊畫面莉莉。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你說那包美味可口、香酥脆脆的鯛魚燒？",
+      "box": {
+        "x": 48.92295920942152,
+        "y": 25.72270491858273,
+        "width": 14.519393118400405,
+        "height": 12.035648710362056,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「你說鯛魚燒？」- 同頁前段，接續困惑。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_005_p05_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "應該還在還在冰箱吧......？",
+      "box": {
+        "x": 83.59980004267769,
+        "y": 82.92465575735618,
+        "width": 13.7960022046169,
+        "height": 10.732831478213807,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

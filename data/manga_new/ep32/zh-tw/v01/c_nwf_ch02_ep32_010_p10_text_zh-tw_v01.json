@@ -1,0 +1,265 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "010_p10",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "012V_JP32_P10_我的鯛魚燒_hook_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_010_p10_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "010",
+    "pageCode": "p10"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "第一次，石頭人的表情變了。",
+      "box": {
+        "x": 74.44570256666205,
+        "y": 92.36135245929135,
+        "width": 21.898009049737794,
+        "height": 7.312943791779327,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 25,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "旁白",
+      "note": "旁白：「第一次，石頭人的表情變了。」- 頁尾或翻頁 hook 位置。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我的……",
+      "box": {
+        "x": 39.81653875941423,
+        "y": 50.771520616539306,
+        "width": 9.455640827057184,
+        "height": 10.977110128572418,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "石頭人",
+      "note": "石頭人：「我的……」- 石頭人低聲近景，第一個停頓泡泡。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "名店限量... \n\n綜合口味... \n\n鯛魚燒。",
+      "box": {
+        "x": 80.12753637240382,
+        "y": 66.74113981943056,
+        "width": 19.293747717597633,
+        "height": 14.722711627875771,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "石頭人",
+      "note": "石頭人：「鯛魚燒。」- 石頭人真正怒意表情。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "是我排好久買的......",
+      "box": {
+        "x": 19.02549773756555,
+        "y": 80.51225676017185,
+        "width": 10.90243854948288,
+        "height": 13.745597026441324,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "石頭看起來很安靜",
+      "box": {
+        "x": 5.664076069614711,
+        "y": 3.330563513522579,
+        "width": 15.67682493839749,
+        "height": 11.221388778931031,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "還是不行嗎？",
+      "box": {
+        "x": 85.15190716448835,
+        "y": 33.824792403291134,
+        "width": 14.085368107045515,
+        "height": 9.837149802858606,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b07",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "玩笑會不會開太大？",
+      "box": {
+        "x": 5.527728382296783,
+        "y": 34.56775603221355,
+        "width": 13.50664424961763,
+        "height": 11.221386542500017,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "該不會生氣了吧？",
+      "box": {
+        "x": 90.54434327808413,
+        "y": 1.7632117162147953,
+        "width": 9.45565672191587,
+        "height": 8.45290411749314,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_010_p10_b09",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "只反應一下嗎？",
+      "box": {
+        "x": 87.16906169072817,
+        "y": 14.964353526068956,
+        "width": 8.732249913273677,
+        "height": 8.860032964993145,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 9,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

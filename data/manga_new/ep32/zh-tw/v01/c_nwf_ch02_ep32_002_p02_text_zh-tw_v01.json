@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "002_p02",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "004V_JP32_P02_問題很怪_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_002_p02_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "002",
+    "pageCode": "p02"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭怎麼了？",
+      "box": {
+        "x": 4.131926135002187,
+        "y": 3.8600363196396663,
+        "width": 13.651311305973246,
+        "height": 10.488557300717222,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "莉莉",
+      "note": "莉莉：「石頭人怎麼了？」- 莉莉擔心近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他需要生氣。",
+      "box": {
+        "x": 3.8819099421148975,
+        "y": 24.959489847721414,
+        "width": 20.740561334882024,
+        "height": 10.162852433572407,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「他需要生氣。」- 雷蒙多尷尬近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "拯救世界和幫石頭扯一起……為什麼？",
+      "box": {
+        "x": 83.02106823782047,
+        "y": 3.9617167739035346,
+        "width": 16.255540848396027,
+        "height": 11.465667429289644,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "莉莉",
+      "note": "莉莉：「……為什麼？」- 莉莉反應。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我們可能需要他的力量。",
+      "box": {
+        "x": 3.6895658597509184,
+        "y": 32.71521622933258,
+        "width": 16.97892381475019,
+        "height": 8.127201486779338,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「我們可能需要他的力量。」- 雷蒙多拿通訊器。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我有努力。",
+      "box": {
+        "x": 85.91464778781317,
+        "y": 26.862674190020595,
+        "width": 13.506652197046977,
+        "height": 9.837147566427593,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": "石頭人",
+      "note": "石頭人：「我有努力。」- 石頭人正面近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "所以你打來問什麼？\n\n怎麼讓石頭生氣嗎?",
+      "box": {
+        "x": 5.434048853642922,
+        "y": 59.14826754871505,
+        "width": 18.281054480820266,
+        "height": 13.2570397257241,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "瑞波",
+      "note": "瑞波：「所以你打來問什麼？」- 瑞波不解/吐槽近景。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_002_p02_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭你先不要努力。\n\n生氣不是靠努力...",
+      "box": {
+        "x": 79.31376848423051,
+        "y": 57.52987983656161,
+        "width": 16.110849949752374,
+        "height": 15.61838994858445,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "瑞波",
+      "note": "瑞波：「你先不要努力。」- 最後沉默喜劇格。; confidence=candidate_from_handoff; needsReview=true"
+    }
+  ]
+}

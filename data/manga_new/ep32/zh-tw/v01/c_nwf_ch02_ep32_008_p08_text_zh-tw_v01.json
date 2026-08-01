@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "008_p08",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "013V_JP32_P08_瑞波的謊話_v02.png",
+    "artAsset": "c_nwf_ch02_ep32_008_p08_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "008",
+    "pageCode": "p08"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那我剛剛吃掉了。",
+      "box": {
+        "x": 80.5221957793587,
+        "y": 5.48855674160947,
+        "width": 16.83425675839457,
+        "height": 11.058536345358624,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "瑞波",
+      "note": "瑞波：「那我剛剛吃掉了。」- 瑞波平靜正面格，轉折主泡泡。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你吃掉了？",
+      "box": {
+        "x": 86.49334780295302,
+        "y": 37.743369541151445,
+        "width": 13.506652197046975,
+        "height": 10.081422862139684,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「你吃掉了？」- 雷蒙多愣住。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "瑞波？",
+      "box": {
+        "x": 4.463968143524216,
+        "y": 39.78914537025234,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "莉莉",
+      "note": "莉莉：「瑞波？」- 莉莉愣住。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯，\n剛吃掉。",
+      "box": {
+        "x": 3.5448988033953013,
+        "y": 60.88859889833409,
+        "width": 16.544890855965956,
+        "height": 8.534332570710358,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "瑞波",
+      "note": "瑞波：「嗯。」- 瑞波平靜確認。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "好吃。",
+      "box": {
+        "x": 86.4933636978117,
+        "y": 61.14300634475478,
+        "width": 13.217270399759672,
+        "height": 8.20863217642757,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "瑞波",
+      "note": "瑞波：「好吃。」- 瑞波看著石頭人，最後一刀。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "鯛 ~\n魚 ~~\n燒 ~~~",
+      "box": {
+        "x": 8.182945452421324,
+        "y": 81.37756434771134,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b07",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "也不知道你們什麼時候會回來...所以...",
+      "box": {
+        "x": 3.646881806228148,
+        "y": 4.60299659391557,
+        "width": 16.400231747039683,
+        "height": 11.221391015362045,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_008_p08_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "安 ~  靜~   無~    聲~",
+      "box": {
+        "x": 30.506088724306462,
+        "y": 28.470938697189478,
+        "width": 52.28050690293844,
+        "height": 9.918571546782783,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 40,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

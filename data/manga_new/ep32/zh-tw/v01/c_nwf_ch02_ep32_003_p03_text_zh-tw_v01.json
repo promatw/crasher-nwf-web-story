@@ -1,0 +1,265 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep32",
+  "page": "003_p03",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "005V_JP32_P03_失敗過程帶過_v01.png",
+    "artAsset": "c_nwf_ch02_ep32_003_p03_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "candidate_clean_art_not_final",
+    "textLayerOptional": true,
+    "readingIndex": "003",
+    "pageCode": "p03"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我試過直接叫他生氣。",
+      "box": {
+        "x": 11.221176163910963,
+        "y": 1.6615351757052026,
+        "width": 15.532134039753839,
+        "height": 10.325703748929309,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「直接叫他生氣。」- 車內石頭人努力皺眉格。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我真的有努力。",
+      "box": {
+        "x": 78.3010116680184,
+        "y": 57.52987760013061,
+        "width": 13.651327200831938,
+        "height": 11.384241212503438,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": "石頭人",
+      "note": "石頭人：「我真的有努力。」- 石頭人認真格。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "也提醒過他壞人躲在大阪。他就是不生氣...",
+      "box": {
+        "x": 3.3065442709564765,
+        "y": 58.8428219510177,
+        "width": 20.017186315957204,
+        "height": 10.325700394282787,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「提醒他壞人躲在大阪。」- 大阪街景/跑跑人招牌格。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "刺激他。",
+      "box": {
+        "x": 1.2300351634011315,
+        "y": 75.70813009766495,
+        "width": 9.889673785841417,
+        "height": 12.768482425006876,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「刺激他。」- 雷蒙多挑釁格。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我也試過了......",
+      "box": {
+        "x": 59.62916380724783,
+        "y": 83.45372265124425,
+        "width": 13.217286294618358,
+        "height": 10.651409734289631,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "雷蒙多",
+      "note": "雷蒙多：「我試過了。」- 頁面開頭，車內或通訊前導。; confidence=candidate_from_handoff; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "你跑很慢!",
+      "box": {
+        "x": 10.642452306483076,
+        "y": 29.916344061492904,
+        "width": 10.757747650839228,
+        "height": 11.465667429289642,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b07",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "有嗎?",
+      "box": {
+        "x": 34.7528023629297,
+        "y": 46.048823525465124,
+        "width": 10.03435673705572,
+        "height": 8.371480137137949,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "石頭生氣囉!!!",
+      "box": {
+        "x": 85.91799802665328,
+        "y": 1.6003659919354294,
+        "width": 12.638554489761127,
+        "height": 9.592871152499994,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep32_003_p03_b09",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我相信。",
+      "box": {
+        "x": 28.57427051539477,
+        "y": 75.30099677730293,
+        "width": 12.78326128326347,
+        "height": 11.791372296434458,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": "瑞波",
+      "note": "瑞波：「我相信你。」- 通訊畫面瑞波。; confidence=candidate_from_handoff; needsReview=true"
+    }
+  ]
+}
