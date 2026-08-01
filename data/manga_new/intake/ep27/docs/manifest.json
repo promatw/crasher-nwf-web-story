@@ -1,0 +1,83 @@
+{
+  "package_name": "c_nwf_ch02_ep27_mga2d_clean_art_package_v01",
+  "episode": "ch02_ep27",
+  "project": "Crasher_NWF_web_story",
+  "created_at": "2026-07-12T11:19:47.858863Z",
+  "status": "color test / color clean art candidate",
+  "is_black_white_clean_art": false,
+  "is_final_text_package": false,
+  "is_uxe1_final_normalized_package": false,
+  "normalized_to_864x1536": false,
+  "canvas_actual_width": 941,
+  "canvas_actual_height": 1672,
+  "canvas_actual_note": "Selected images are mixed: 001-003 are 864x1536 as re-uploaded by HM; 004-015 are 941x1672. No normalization performed.",
+  "selected_canvas_sizes": [
+    {
+      "width": 864,
+      "height": 1536
+    },
+    {
+      "width": 941,
+      "height": 1672
+    }
+  ],
+  "aspect_ratio": "close_to_9_16",
+  "counts": {
+    "selected": 15,
+    "anchors": 13,
+    "alternates": 2,
+    "rejected": 5,
+    "pending_fix": 0
+  },
+  "folders": [
+    "art/selected",
+    "art/alternates",
+    "art/rejected",
+    "art/anchors",
+    "docs",
+    "text"
+  ],
+  "selected_files": [
+    "c_nwf_ch02_ep27_001_p01a_art_v01.png",
+    "c_nwf_ch02_ep27_002_p01b_art_v01.png",
+    "c_nwf_ch02_ep27_003_p02a_art_v01.png",
+    "c_nwf_ch02_ep27_004_p02b_art_v01.png",
+    "c_nwf_ch02_ep27_005_p03a_art_v01.png",
+    "c_nwf_ch02_ep27_006_p03b_art_v01.png",
+    "c_nwf_ch02_ep27_007_p04a_art_v01.png",
+    "c_nwf_ch02_ep27_008_p04b_art_v01.png",
+    "c_nwf_ch02_ep27_009_p05a_art_v01.png",
+    "c_nwf_ch02_ep27_010_p05b_art_v01.png",
+    "c_nwf_ch02_ep27_011_p06a_art_v01.png",
+    "c_nwf_ch02_ep27_012_p06b_art_v01.png",
+    "c_nwf_ch02_ep27_013_p07a_art_v01.png",
+    "c_nwf_ch02_ep27_014_p07b_art_v01.png",
+    "c_nwf_ch02_ep27_015_p08a_art_v01.png"
+  ],
+  "anchor_files": [
+    "c_nwf_ch02_ep27_anchor_001_raimondo_motorcycle_pose_v01.png",
+    "c_nwf_ch02_ep27_anchor_002_stone_golem_motorcycle_comedy_v01.png",
+    "c_nwf_ch02_ep27_anchor_003_motorcycle_lineup_v01.png",
+    "c_nwf_ch02_ep27_anchor_004_future_superbike_showcase_v01.png",
+    "c_nwf_ch02_ep27_anchor_005_stone_golem_superbike_scale_v01.png",
+    "c_nwf_ch02_ep27_anchor_006_selected_superbike_riding_sheet_v01.png",
+    "c_nwf_ch02_ep27_anchor_007_helmet_hud_ai_v01.png",
+    "c_nwf_ch02_ep27_anchor_008_bubble_protection_v01.png",
+    "c_nwf_ch02_ep27_anchor_009_nfc_key_payment_v01.png",
+    "c_nwf_ch02_ep27_anchor_010_motorcycle_airbag_bubble_v01.png",
+    "c_nwf_ch02_ep27_anchor_011_color_ip_trio_v01.png",
+    "c_nwf_ch02_ep27_anchor_012_selected_superbike_color_lock_v01.png",
+    "c_nwf_ch02_ep27_anchor_013_helmet_hud_seven_voice_v01.png"
+  ],
+  "alternate_files": [
+    "c_nwf_ch02_ep27_anchor_013_helmet_hud_seven_voice_alt01.png",
+    "c_nwf_ch02_ep27_012_p06b_art_v01_alt01.png"
+  ],
+  "rejected_files": [
+    "c_nwf_ch02_ep27_001_p01a_art_v01_rejected_reference.png",
+    "c_nwf_ch02_ep27_002_p01b_art_v01_rejected_reference.png",
+    "c_nwf_ch02_ep27_003_p02a_art_v01_rejected_reference.png",
+    "c_nwf_ch02_ep27_010_p05b_art_v01_rejected_reference.png",
+    "c_nwf_ch02_ep27_011_p06a_art_v01_rejected_reference.png"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p05",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P05_work_for_ticket_golem_kitchen_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p05_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p05_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "還好可以打工抵車票錢。",
+      "box": {
+        "x": 5.144690898643653,
+        "y": 5.102375275086104,
+        "width": 19.727828360957933,
+        "height": 11.12609428512591,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p05_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "只是搭錯車，怎麼\n變洗碗工？",
+      "box": {
+        "x": 1.476701117448303,
+        "y": 38.99504600392271,
+        "width": 16.110857897181724,
+        "height": 12.76404526353662,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p05_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "到底還有幾盤啊?!",
+      "box": {
+        "x": 84.7572159678161,
+        "y": 75.65175637282572,
+        "width": 14.230027215971788,
+        "height": 12.354558221867718,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

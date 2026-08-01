@@ -1,0 +1,57 @@
+.header-status-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.save-state {
+  padding: 3px 7px;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.save-state.is-dirty {
+  border-color: var(--danger);
+  color: #ffdadd;
+}
+
+.save-state.is-exported,
+.save-state.is-loaded {
+  border-color: var(--ok);
+  color: var(--ok);
+}
+
+.metadata-summary {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 4px 8px;
+  margin: 12px 0 0;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+}
+
+.metadata-summary dt {
+  color: var(--muted);
+}
+
+.metadata-summary dd {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.coordinate-grid label {
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 12px;
+}
+
+.coordinate-grid input {
+  font-family: inherit;
+}
+
+.box-list-item.has-order-warning {
+  border-color: var(--danger);
+}

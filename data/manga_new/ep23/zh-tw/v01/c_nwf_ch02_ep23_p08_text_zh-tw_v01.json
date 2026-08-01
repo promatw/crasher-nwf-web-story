@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep23",
+  "page": "p08",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep23_p08_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep23_p08_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p08"
+  },
+  "boxes": []
+}

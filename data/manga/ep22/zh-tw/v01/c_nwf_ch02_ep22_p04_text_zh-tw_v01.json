@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p04",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p04_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep22_p04_art_v01.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p04_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "哇!你看那邊好酷喔!!",
+      "box": {
+        "x": 84.42708333333333,
+        "y": 48.75000000000001,
+        "width": 13.333333333333334,
+        "height": 10.868055555555555,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p04_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "果然是澀谷! 街道熱鬧燈光炫麗啊!!",
+      "box": {
+        "x": 4.312500000000005,
+        "y": 66.37847222222221,
+        "width": 20.625,
+        "height": 13.211805555555554,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

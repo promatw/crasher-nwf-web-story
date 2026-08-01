@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep23",
+  "page": "p00",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep23_p00_cover_qixing_v02.png",
+    "artAsset": "c_nwf_ch02_ep23_p00_cover_qixing_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "cover",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "000",
+    "pageCode": "p00"
+  },
+  "boxes": []
+}

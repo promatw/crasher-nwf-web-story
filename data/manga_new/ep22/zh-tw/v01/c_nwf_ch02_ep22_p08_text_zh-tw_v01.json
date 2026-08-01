@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p08",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p08_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p08_art_v02.png",
+    "width": 971,
+    "height": 1619,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p08"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p08_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "街道亂成一團。",
+      "box": {
+        "x": 81.11113230387369,
+        "y": 3.43813557391225,
+        "width": 16.80553436279297,
+        "height": 11.041243745130494,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p08_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "這樣會有人受傷!!",
+      "box": {
+        "x": 5.87501589457194,
+        "y": 32.11559112288272,
+        "width": 16.979166666666664,
+        "height": 13.227851558437361,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p08_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "需要控制\n撕裂範圍!",
+      "box": {
+        "x": 80.18750000000001,
+        "y": 73.49621464272684,
+        "width": 17.673616409301758,
+        "height": 10.208250178955687,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

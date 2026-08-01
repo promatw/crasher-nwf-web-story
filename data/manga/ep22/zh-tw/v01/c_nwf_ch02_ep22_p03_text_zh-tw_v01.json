@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p03",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p03_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep22_p03_art_v01.png",
+    "width": 1086,
+    "height": 1448,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "conditional",
+    "textLayerOptional": false
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p03_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "列車到站，旅客們走向東京的街道。",
+      "box": {
+        "x": 76.640625,
+        "y": 4.0234375,
+        "width": 19.192708333333336,
+        "height": 10.09765625,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p03_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "石頭，第一次這樣來日本，還得謝謝忍者呢!",
+      "box": {
+        "x": 8.348958333333334,
+        "y": 36.83203125,
+        "width": 15.677083333333334,
+        "height": 12.83203125,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

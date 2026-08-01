@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p07",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p07_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p07_art_v02.png",
+    "width": 971,
+    "height": 1619,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p07"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p07_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭! \n危險!!",
+      "box": {
+        "x": 8.645833333333334,
+        "y": 27.074350952576193,
+        "width": 14.548600514729818,
+        "height": 10.6247457704351,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p07_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "嘿~\n",
+      "box": {
+        "x": 5.875,
+        "y": 48.98373169106238,
+        "width": 11.423616409301758,
+        "height": 8.229890161388527,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p07_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "再次撕裂對決",
+      "box": {
+        "x": 69.07639948527019,
+        "y": 90.46847553395239,
+        "width": 28.263883590698242,
+        "height": 9.479381702258726,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

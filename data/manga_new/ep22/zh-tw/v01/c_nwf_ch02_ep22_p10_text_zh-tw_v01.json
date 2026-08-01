@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p10",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p10_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p10_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p10"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p10_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "巨型螢幕\n突然的\n亮起來\n\n有個 ... \n人 ......",
+      "box": {
+        "x": 76.42361640930176,
+        "y": 31.16607022837369,
+        "width": 20.798616409301758,
+        "height": 19.33625466068755,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p10_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "有\n  人?",
+      "box": {
+        "x": 27.055550257364914,
+        "y": 68.33433145226304,
+        "width": 8.993066151936851,
+        "height": 8.525855119198434,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p10_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "突然的安靜",
+      "box": {
+        "x": 1.3680661519368504,
+        "y": 1.575377173787862,
+        "width": 20.798600514729817,
+        "height": 5.946101577795693,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

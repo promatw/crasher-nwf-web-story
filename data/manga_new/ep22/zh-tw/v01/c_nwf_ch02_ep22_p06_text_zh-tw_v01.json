@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p06",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p06_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p06_art_v02.png",
+    "width": 971,
+    "height": 1619,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p06"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p06_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "忍者仍在。",
+      "box": {
+        "x": 64.20136769612631,
+        "y": 27.59497520835743,
+        "width": 16.63196563720703,
+        "height": 10.624748153651081,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p06_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "小心！",
+      "box": {
+        "x": 5.527783075968424,
+        "y": 53.35695089250009,
+        "width": 17.847216924031574,
+        "height": 8.542259471782103,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p06_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "刀光，比人聲更快。",
+      "box": {
+        "x": 5.534716924031577,
+        "y": 3.004066481430411,
+        "width": 12.465267181396488,
+        "height": 11.24949273247819,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    }
+  ]
+}

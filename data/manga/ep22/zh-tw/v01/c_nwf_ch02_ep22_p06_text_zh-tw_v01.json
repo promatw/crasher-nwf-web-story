@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p06",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p06_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep22_p06_art_v01.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p06_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "嘩! \n人真多!!",
+      "box": {
+        "x": 79.86979166666666,
+        "y": 3.0034722222222174,
+        "width": 16.067708333333336,
+        "height": 9.305555555555555,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p06_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "每棟樓都好亮啊!",
+      "box": {
+        "x": 6.786458333333333,
+        "y": 68.375,
+        "width": 14.375,
+        "height": 11.041666666666668,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p06_b18",
+      "type": "caption",
+      "shape": "rectangle",
+      "text": "人潮快速\n移動!!",
+      "box": {
+        "x": 77.57241677475142,
+        "y": 32.812685441074244,
+        "width": 19.09488568449429,
+        "height": 6.527695359522558,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 18,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p06_b19",
+      "type": "caption",
+      "shape": "ellipse",
+      "text": "誰?",
+      "box": {
+        "x": 2.0702677958342863,
+        "y": 32.669927603804624,
+        "width": 7.050431067368582,
+        "height": 7.612790559671757,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 19,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

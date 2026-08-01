@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "012_p07b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_012_p07b_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_012_p07b_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "012",
+    "pageCode": "p07b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_012_p07b_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "看好！\n\n這需要\n天分！",
+      "box": {
+        "x": 75.31248410542807,
+        "y": 4.631466591507831,
+        "width": 20.277783075968426,
+        "height": 14.545280986374237,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_012_p07b_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "看來 .....\n\n我沒 .....\n天分 .....",
+      "box": {
+        "x": 5.354166666666666,
+        "y": 34.67469188176609,
+        "width": 14.37501589457194,
+        "height": 13.316825981803524,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_012_p07b_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "別把門擠壞了！",
+      "box": {
+        "x": 31.229166666666664,
+        "y": 68.89465912648997,
+        "width": 12.465267181396483,
+        "height": 10.368536220200392,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

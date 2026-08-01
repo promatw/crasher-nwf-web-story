@@ -1,0 +1,130 @@
+﻿<!doctype html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Tools New Manga Revision Annotator</title>
+  <link rel="stylesheet" href="/crasher-nwf-web-story/css/tools_new/manga-text-editor.css">
+  <link rel="stylesheet" href="/crasher-nwf-web-story/css/tools_new/manga-text-editor-v02.css">
+  <link rel="stylesheet" href="/crasher-nwf-web-story/css/tools_new/manga-text-editor-v09.css">
+  <link rel="stylesheet" href="/crasher-nwf-web-story/css/tools_new/manga-annotator-v01.css">
+</head>
+<body>
+  <main class="editor-app annotator-app" data-annotator-app>
+    <header class="app-header">
+      <div>
+        <div class="header-status-row">
+          <p class="eyebrow">Local production tool 繚 tools_new Annotator V0.1</p>
+          <span class="save-state" data-save-state>撌脰???/span>
+        </div>
+        <h1>Crasher Manga Revision Annotator</h1>
+        <p class="subtitle" data-subtitle>tools_new 繚 revision annotation 繚 candidate only</p>
+        <div class="episode-switch" role="group" aria-label="?豢?閰望" data-episode-switch></div>
+        <div class="page-switch" role="group" aria-label="?豢??" data-page-switch></div>
+      </div>
+      <div class="mode-switch" role="group" aria-label="璅∪???">
+        <button type="button" class="is-active" data-mode="annotate">璅酉</button>
+        <button type="button" data-mode="preview">?汗</button>
+      </div>
+    </header>
+
+    <section class="workspace">
+      <aside class="control-panel" aria-label="瞍怎靽桀?璅酉?批?Ｘ">
+        <section class="panel-section">
+          <h2>撠?鞈?</h2>
+          <div class="field-grid">
+            <label>Project<input data-meta="project" value="crasher-nwf" readonly></label>
+            <label>Chapter<input data-meta="chapter" value="ch02" readonly></label>
+            <label>Episode<input data-meta="episode" value="ep24" readonly></label>
+            <label>Page<input data-meta="page" value="" readonly></label>
+            <label>Revision round<input data-meta="revisionRound" value="r01"></label>
+            <label>Locale<input data-meta="locale" value="zh-tw" readonly></label>
+          </div>
+          <label class="full-field">Annotation JSON 瑼?
+            <output data-json-filename></output>
+          </label>
+          <label class="full-field">Task pack 瑼?
+            <output data-task-filename></output>
+          </label>
+          <dl class="metadata-summary" data-metadata-summary></dl>
+        </section>
+
+        <section class="panel-section">
+          <div class="section-heading">
+            <h2>璅酉皜</h2>
+            <button type="button" class="primary-action" data-add-annotation>?啣?璅酉</button>
+          </div>
+          <div class="box-list" data-annotation-list aria-label="璅酉皜"></div>
+          <div class="empty-state" data-empty-state hidden>?桀?瘝?璅酉??/div>
+        </section>
+
+        <section class="panel-section" data-annotation-controls>
+          <div class="selected-heading">
+            <div><span class="field-caption">?桀??詨?</span><strong data-selected-id></strong></div>
+            <button type="button" class="danger-icon" data-remove-annotation title="蝘駁?桀?璅酉" aria-label="蝘駁?桀?璅酉">?</button>
+          </div>
+          <div class="field-grid">
+            <label>??憿?
+              <select data-category>
+                <option value="character_ip_face_hair">鈭箇???垣??蝚血? IP</option>
+                <option value="character_ip_clothing">鈭箇??甈曉??敦蝭銝泵??IP</option>
+                <option value="character_expression">銵冽?銝泵???脣扳???</option>
+                <option value="character_position_swap">鈭箇雿蔭?撠矽</option>
+                <option value="remove_extra_character">?芷憭?鈭箇</option>
+                <option value="remove_extra_background">?芷憭????</option>
+                <option value="scene_continuity">?湔??敺?銝?疵</option>
+                <option value="vehicle_or_device_design">頛 / 鋆蔭??銝???/option>
+                <option value="keep_dialogue_space">?閬??閰征?賢?</option>
+                <option value="no_new_character">銝??啣?憿?閫</option>
+                <option value="keep_storyboard">銝??寡?????/option>
+                <option value="other">?嗡?嚗???note</option>
+              </select>
+            </label>
+            <label>Target<input data-target placeholder="靘? ?瑁?憭?/ ?喲鈭?></label>
+          </div>
+          <label class="full-field">蝵隤芣?<textarea rows="3" data-preset></textarea></label>
+          <label class="full-field">鋆? note<textarea rows="4" data-note></textarea></label>
+          <div class="coordinate-grid" aria-label="璅酉獢漣璅?>
+            <label>x (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="x"></label>
+            <label>y (%)<input type="number" min="0" max="100" step="0.01" data-coordinate-input="y"></label>
+            <label>width (%)<input type="number" min="4" max="100" step="0.01" data-coordinate-input="width"></label>
+            <label>height (%)<input type="number" min="3" max="100" step="0.01" data-coordinate-input="height"></label>
+          </div>
+        </section>
+
+        <section class="panel-section">
+          <h2>?祇?摰??/h2>
+          <p class="seed-help">?暸?祆活靽桀??閬?蝯?MGA1 ??reference asset?葉???冗蝯虫犖憿?嚗極?瑁撓??stable assetId??/p>
+          <div class="reference-list" data-reference-list></div>
+          <p class="status-line" data-reference-status></p>
+        </section>
+
+        <section class="panel-section">
+          <h2>頛詨</h2>
+          <div class="action-grid">
+            <button type="button" data-save>?怠?</button>
+            <button type="button" data-export-json>?臬 JSON</button>
+            <button type="button" data-export-task>?臬 task pack</button>
+            <button type="button" data-reset>?身?祇?</button>
+          </div>
+          <p class="status-line" aria-live="polite" data-app-status></p>
+        </section>
+      </aside>
+
+      <section class="canvas-panel" aria-label="瞍怎靽桀?璅酉?怠?">
+        <div class="preview-frame" data-preview-frame>
+          <div class="manga-stage annotation-stage" data-stage>
+            <img src="/crasher-nwf-web-story/images/manga_new/editor/c_nwf_ch02_ep24_001_p01a_art_v02.png" alt="clean art" data-art>
+            <div class="annotation-layer" data-annotation-layer></div>
+          </div>
+        </div>
+      </section>
+    </section>
+  </main>
+  <script src="/crasher-nwf-web-story/js/tools-new-manga-editor-config.js"></script>
+  <script src="/crasher-nwf-web-story/js/tools-new-manga-annotator.js" defer></script>
+</body>
+</html>
+
+

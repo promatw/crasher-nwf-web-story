@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "024_p12b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_024_p12b_art_v03.png",
+    "artAsset": "c_nwf_ch02_ep29_024_p12b_art_v03.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "024",
+    "pageCode": "p12b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "衝過去！",
+      "box": {
+        "x": 39.50520833333333,
+        "y": 3.314516683078755,
+        "width": 10.859375,
+        "height": 10.36640941672201,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：遠方飛車黨；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我不是來替他們收場的。",
+      "box": {
+        "x": 3.7239583333333357,
+        "y": 80.7429637941695,
+        "width": 16.197916666666664,
+        "height": 11.245792016854834,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：忍者；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "所有人退後！",
+      "box": {
+        "x": 12.348958333333332,
+        "y": 6.624476149037029,
+        "width": 10.338541666666666,
+        "height": 6.62903336615751,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：外圍警備隊；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你要逃？\n有我們在，你們別想騷擾這裡!",
+      "box": {
+        "x": 6.062499999999998,
+        "y": 48.584491721437246,
+        "width": 15.416666666666663,
+        "height": 15.056449950763735,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "下次，\n\n再好好問候你們。",
+      "box": {
+        "x": 89.01041666666667,
+        "y": 79.69878855886597,
+        "width": 10.989583333333329,
+        "height": 11.685483316921246,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "unknown",
+      "note": "來源標示：忍者；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_024_p12b_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "從澳洲一路被你們兩碰壞任務，真是怨家路窄!",
+      "box": {
+        "x": 87.05729166666667,
+        "y": 11.302241967618569,
+        "width": 12.942708333333332,
+        "height": 14.030503583942107,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

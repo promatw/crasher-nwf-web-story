@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p06",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P06_golem_blocks_train_door_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p06_art_v01.webp",
+    "width": 1103,
+    "height": 1426
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p06_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "這任務有\n難度......\n不盡「全力」不行\n了 ?！",
+      "box": {
+        "x": 80.52218783192936,
+        "y": 5.223819939812236,
+        "width": 17.26829766460815,
+        "height": 15.147840173542985,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "golem",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p06_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "縮小腹能擠進去吧? 石頭憋氣試試看。",
+      "box": {
+        "x": 82.20735598165257,
+        "y": 41.453792914702525,
+        "width": 14.085384001904202,
+        "height": 14.81211333751437,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p06_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "繼續\n下一\n任務",
+      "box": {
+        "x": 3.017186315957205,
+        "y": 9.306980214167327,
+        "width": 10.020962793159807,
+        "height": 10.535405401803459,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "passenger",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p06_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "擠不進去，要怎麼掃廁所?",
+      "box": {
+        "x": 83.74447504646264,
+        "y": 64.23777434371497,
+        "width": 11.625829463266385,
+        "height": 13.021566113775453,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p06_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "門會擠壞啦！",
+      "box": {
+        "x": 3.4938874334055106,
+        "y": 43.94147928326964,
+        "width": 8.298224901918786,
+        "height": 15.03593327732661,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

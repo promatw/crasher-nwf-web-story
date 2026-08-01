@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "013_p07c",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_013_p07c_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_013_p07c_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "013",
+    "pageCode": "p07c"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_013_p07c_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "小心的\n仔細的\n\n刷一刷",
+      "box": {
+        "x": 78.95833333333334,
+        "y": 3.1573188989980423,
+        "width": 15.763883590698242,
+        "height": 17.862106968177763,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_013_p07c_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "辛苦\n你們了！\n\n收工囉！",
+      "box": {
+        "x": 10.215267181396483,
+        "y": 39.58851190004896,
+        "width": 15.069449742635092,
+        "height": 11.105608660601174,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_013_p07c_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "總算忙\n完了～",
+      "box": {
+        "x": 2.930534362792968,
+        "y": 61.27824203454308,
+        "width": 15.590283075968426,
+        "height": 11.719831945324197,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

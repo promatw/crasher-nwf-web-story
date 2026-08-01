@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p02",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p02_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p02_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p02"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p02_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "人也太多了吧！",
+      "box": {
+        "x": 34.166666666666664,
+        "y": 3.1573188989980423,
+        "width": 12.8125,
+        "height": 10.8599159726621,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "別走散。",
+      "box": {
+        "x": 2.923616409301758,
+        "y": 24.9699066242946,
+        "width": 14.02776718139648,
+        "height": 11.105611472309397,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "車站商店街",
+      "box": {
+        "x": 78.62499999999999,
+        "y": 1.20684235944158,
+        "width": 20.277783075968426,
+        "height": 9.631462373945498,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "哇~\n\n",
+      "box": {
+        "x": 77.24305025736491,
+        "y": 47.71135262060204,
+        "width": 14.548632303873699,
+        "height": 9.877156467738684,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "難得有機會到日本",
+      "box": {
+        "x": 1.902798970540367,
+        "y": 43.23502236770125,
+        "width": 15.243050257364908,
+        "height": 9.631463779799608,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "好好玩吧!",
+      "box": {
+        "x": 35.03473281860351,
+        "y": 44.187685685211044,
+        "width": 12.118050257364912,
+        "height": 10.245692687939076,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b07",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我要這個。",
+      "box": {
+        "x": 32.090267181396484,
+        "y": 68.3343370756795,
+        "width": 12.118066151936851,
+        "height": 11.228455004570712,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "好的，保證好吃!",
+      "box": {
+        "x": 2.9305502573649074,
+        "y": 82.89903830581308,
+        "width": 12.11806615193685,
+        "height": 16.265118555114878,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b09",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "出發! ",
+      "box": {
+        "x": 85.45138359069826,
+        "y": 70.5605828086311,
+        "width": 12.465267181396483,
+        "height": 9.631472214924276,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 9,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p02_b10",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "東京，我來囉!",
+      "box": {
+        "x": 85.79860051472983,
+        "y": 81.07140670437207,
+        "width": 11.423616409301758,
+        "height": 10.368534814346281,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 10,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "003_p03a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_003_p03a_v02.png",
+    "artAsset": "c_nwf_ch02_ep21_003_p03a_v02.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "003",
+    "pageCode": "p03a"
+  },
+  "boxes": []
+}

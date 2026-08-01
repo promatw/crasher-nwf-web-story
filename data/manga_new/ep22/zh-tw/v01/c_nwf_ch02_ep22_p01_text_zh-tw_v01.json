@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p01",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p01_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p01_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p01"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p01_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "這裡是…日本？",
+      "box": {
+        "x": 3.372370997685715,
+        "y": 4.308992100196146,
+        "width": 24.79158719259429,
+        "height": 4.471936801569163,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p01_b02",
+      "type": "narration",
+      "shape": "text-only",
+      "text": "列車到站，城市之門打開。",
+      "box": {
+        "x": 77.36041809719997,
+        "y": 5.775296467582011,
+        "width": 20.68642710002289,
+        "height": 8.50281621709165,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    }
+  ]
+}

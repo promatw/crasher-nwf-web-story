@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "011_p07a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_011_p07a_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_011_p07a_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "011",
+    "pageCode": "p07a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_011_p07a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "　接下來，是這個\n任務～",
+      "box": {
+        "x": 43.71529897054036,
+        "y": 3.2801638371134683,
+        "width": 16.80555025736491,
+        "height": 14.29958829843516,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "ＮＯ",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_011_p07a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "這個任務\n有點 ......\n\n挑戰喔！",
+      "box": {
+        "x": 46.326367696126304,
+        "y": 39.95704812024934,
+        "width": 17.326383590698242,
+        "height": 11.965524633263273,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_011_p07a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "麻煩你\n們囉～",
+      "box": {
+        "x": 53.79861640930176,
+        "y": 70.9830301037228,
+        "width": 14.375,
+        "height": 9.877156467738684,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

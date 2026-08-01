@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "023_p12a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_023_p12a_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_023_p12a_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "023",
+    "pageCode": "p12a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_023_p12a_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭，小心！",
+      "box": {
+        "x": 31.562500000000004,
+        "y": 1.7755971328463138,
+        "width": 14.114583333333334,
+        "height": 8.241234799734354,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_023_p12a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "嘿~",
+      "box": {
+        "x": 51.44791666666667,
+        "y": 3.0641674491034414,
+        "width": 16.067708333333336,
+        "height": 8.387798566423157,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_023_p12a_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "好快！",
+      "box": {
+        "x": 14.692708333333334,
+        "y": 61.9522980740605,
+        "width": 12.552083333333336,
+        "height": 9.340463049900382,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_023_p12a_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "呼~",
+      "box": {
+        "x": 55.671875,
+        "y": 46.38603522110518,
+        "width": 10.46875,
+        "height": 9.340463049900382,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_023_p12a_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "好傢伙，有兩下子!",
+      "box": {
+        "x": 83.23958333333334,
+        "y": 59.83939817253303,
+        "width": 12.682291666666664,
+        "height": 9.706872466622393,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

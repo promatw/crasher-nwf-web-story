@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "018_p10a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_018_p10a_v03.png",
+    "artAsset": "c_nwf_ch02_ep21_018_p10a_v03.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "018",
+    "pageCode": "p10a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_018_p10a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "耶～\n終於到了！",
+      "box": {
+        "x": 5.520833333333334,
+        "y": 5.982765128339859,
+        "width": 15.9375,
+        "height": 13.193979637833985,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_018_p10a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "去日本\n　晃晃吧！",
+      "box": {
+        "x": 2.4027830759684248,
+        "y": 41.79972359783485,
+        "width": 16.284716924031574,
+        "height": 12.334063665171888,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_018_p10a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "去買\n............\n鯛！\n魚！\n燒！",
+      "box": {
+        "x": 79.54860051472983,
+        "y": 72.8257182339953,
+        "width": 16.979166666666664,
+        "height": 14.422429018988254,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

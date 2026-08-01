@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "010_p06b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_010_p06b_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_010_p06b_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "010",
+    "pageCode": "p06b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_010_p06b_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "看好！\n\n這需要\n　天分！！",
+      "box": {
+        "x": 76.35415077209473,
+        "y": 9.668125924489665,
+        "width": 20.451383590698242,
+        "height": 11.596991224771104,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_010_p06b_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "底部也不能馬虎～",
+      "box": {
+        "x": 8.652783075968424,
+        "y": 36.76306004729068,
+        "width": 11.770833333333334,
+        "height": 11.71983616288653,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_010_p06b_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "再來側壁打亮就完成囉！",
+      "box": {
+        "x": 41.472232818603516,
+        "y": 72.82571682814121,
+        "width": 11.94443384806315,
+        "height": 16.51080561963751,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

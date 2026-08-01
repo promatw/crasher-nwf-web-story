@@ -1,0 +1,239 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep25",
+  "sourceEpisode": "JP25",
+  "locale": "zh-tw",
+  "version": "v01",
+  "seedTextStatus": "draft_candidate",
+  "autoApply": false,
+  "needsHmReview": true,
+  "confidence": "draft_from_package",
+  "needsReview": true,
+  "sourceZip": "JP25_clean_art_package_v02.zip",
+  "sourceFiles": {
+    "seedText": "JP25_clean_art_package_v02/text/seed_text.md",
+    "bubbleMap": "JP25_clean_art_package_v02/text/bubble_map.md",
+    "finalSeedStatus": "JP25_clean_art_package_v02/text/final_seed_status.md"
+  },
+  "pages": {
+    "001_p01a": [
+      {
+        "seedId": "ep25_001_p01a_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "倒數仍在跑。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      },
+      {
+        "seedId": "ep25_001_p01a_s02",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 2,
+        "text": "還沒完嗎……",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "002_p01b": [
+      {
+        "seedId": "ep25_002_p01b_s01",
+        "type": "sfx",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "站我後面。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "003_p02a": [
+      {
+        "seedId": "ep25_003_p02a_s01",
+        "type": "sfx",
+        "speaker": "sfx",
+        "readingOrder": 1,
+        "text": "唰。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "004_p02b": [
+      {
+        "seedId": "ep25_004_p02b_s01",
+        "type": "sfx",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "這邊。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      },
+      {
+        "seedId": "ep25_004_p02b_s02",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 2,
+        "text": "你又擋住了！",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "005_p03a": [
+      {
+        "seedId": "ep25_005_p03a_s01",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "先找出真的那個！",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "006_p03b": [
+      {
+        "seedId": "ep25_006_p03b_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "不對，這樣抓不到。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "007_p04a": [
+      {
+        "seedId": "ep25_007_p04a_s01",
+        "type": "sfx",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "我沒事。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "008_p04b": [
+      {
+        "seedId": "ep25_008_p04b_s01",
+        "type": "sfx",
+        "speaker": "sfx",
+        "readingOrder": 1,
+        "text": "咔……",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "009_p05a": [
+      {
+        "seedId": "ep25_009_p05a_s01",
+        "type": "sfx",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "你看錯地方了。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "010_p05b": [
+      {
+        "seedId": "ep25_010_p05b_s01",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "看錯……？",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "012_p06b": [
+      {
+        "seedId": "ep25_012_p06b_s01",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "他還在忍……",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "013_p07a": [
+      {
+        "seedId": "ep25_013_p07a_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "倒數持續。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "014_p07b": [
+      {
+        "seedId": "ep25_014_p07b_s01",
+        "type": "sfx",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "先看石頭。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "015_p08a": [
+      {
+        "seedId": "ep25_015_p08a_s01",
+        "type": "sfx",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "……離我遠點。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ],
+    "016_p08b": [
+      {
+        "seedId": "ep25_016_p08b_s01",
+        "type": "sfx",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "現在，才看見了。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      },
+      {
+        "seedId": "ep25_016_p08b_s02",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 2,
+        "text": "倒數未止。",
+        "note": "Imported from package seed_text.md; draft candidate; HM review required.",
+        "confidence": "draft_from_package",
+        "needsReview": true
+      }
+    ]
+  },
+  "omittedCandidates": [
+    {
+      "page": "011_p06a",
+      "reason": "silent_or_none",
+      "sourceLine": "- JP25_011_p06a｜silent"
+    }
+  ]
+}

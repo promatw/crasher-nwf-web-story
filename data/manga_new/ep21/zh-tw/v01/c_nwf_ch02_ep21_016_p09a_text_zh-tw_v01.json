@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "016_p09a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_016_p09a_v02.png",
+    "artAsset": "c_nwf_ch02_ep21_016_p09a_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "016",
+    "pageCode": "p09a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_016_p09a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "列車即將\n抵達日本",
+      "box": {
+        "x": 5,
+        "y": 5,
+        "width": 19.409716924031574,
+        "height": 10.491381158315818,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_016_p09a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "　看到陸地了，\n海上列車串\n　聯世界各地。",
+      "box": {
+        "x": 75.66665077209474,
+        "y": 25.338437221078543,
+        "width": 21.902783075968415,
+        "height": 15.282353426775021,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_016_p09a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "有抵達\n有出發\n\n連接世界",
+      "box": {
+        "x": 5.361116409301757,
+        "y": 61.523934722482146,
+        "width": 15.590251286824543,
+        "height": 12.088373788941034,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

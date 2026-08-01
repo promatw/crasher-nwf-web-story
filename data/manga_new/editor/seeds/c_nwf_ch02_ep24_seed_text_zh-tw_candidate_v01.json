@@ -1,0 +1,226 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep24",
+  "sourceEpisode": "JP24",
+  "locale": "zh-tw",
+  "version": "v01",
+  "seedTextStatus": "draft_candidate",
+  "autoApply": false,
+  "needsHmReview": true,
+  "confidence": "draft_from_package",
+  "needsReview": true,
+  "sourceZip": "JP24_clean_art_package_v01.zip",
+  "sourceFiles": {
+    "seedText": "JP24_clean_art_package_v01/text/seed_text.md",
+    "bubbleMap": "JP24_clean_art_package_v01/text/bubble_map.md",
+    "finalSeedStatus": "JP24_clean_art_package_v01/text/final_seed_status.md"
+  },
+  "pages": {
+    "001_p01a": [
+      {
+        "seedId": "ep24_001_p01a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "這裡是……？",
+        "note": "進場反應，不解釋太多; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "002_p01b": [
+      {
+        "seedId": "ep24_002_p01b_s01",
+        "type": "dialogue",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "小心。",
+        "note": "延續警戒; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "004_p02b": [
+      {
+        "seedId": "ep24_004_p02b_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "妳到底是誰？",
+        "note": "三角對話開始; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "005_p03a": [
+      {
+        "seedId": "ep24_005_p03a_s01",
+        "type": "dialogue",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "來了就好。",
+        "note": "老奶奶壓場; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "006_p03b": [
+      {
+        "seedId": "ep24_006_p03b_s01",
+        "type": "dialogue",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "不用急著問。",
+        "note": "七偽裝異常感，不揭露; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "007_p04a": [
+      {
+        "seedId": "ep24_007_p04a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "什麼測試？",
+        "note": "追問但不理解; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "008_p04b": [
+      {
+        "seedId": "ep24_008_p04b_s01",
+        "type": "dialogue",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "我在。",
+        "note": "可 minimal; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "009_p05a": [
+      {
+        "seedId": "ep24_009_p05a_s01",
+        "type": "dialogue",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "一百八十秒。",
+        "note": "測試規則開頭; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "010_p05b": [
+      {
+        "seedId": "ep24_010_p05b_s01",
+        "type": "dialogue",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "在時間結束前，看清楚真正的危險。",
+        "note": "需 clean art 後微修; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "011_p06a": [
+      {
+        "seedId": "ep24_011_p06a_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "180 秒測試，啟動。",
+        "note": "裝置啟動; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "012_p06b": [
+      {
+        "seedId": "ep24_012_p06b_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "真的開始了……",
+        "note": "緊張反應; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "013_p07a": [
+      {
+        "seedId": "ep24_013_p07a_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "空氣開始變了。",
+        "note": "場地壓力; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "014_p08a": [
+      {
+        "seedId": "ep24_014_p08a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "前面有東西。",
+        "note": "異常吸引注意; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "015_p08b": [
+      {
+        "seedId": "ep24_015_p08b_s01",
+        "type": "dialogue",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "退後。",
+        "note": "保護姿態; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "016_p09a": [
+      {
+        "seedId": "ep24_016_p09a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "那是……忍者？",
+        "note": "JP25 前置; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "017_p09b": [
+      {
+        "seedId": "ep24_017_p09b_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "測試，還沒結束。",
+        "note": "章末 hook，避免寫成大戰開始; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ]
+  },
+  "omittedCandidates": [
+    {
+      "page": "003_p02a",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP24_003_p02a | none | silent | none |  |  | 空間建立頁，可 silent |"
+    },
+    {
+      "page": "003_p02a",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP24_003_p02a | none | silent | none |  |  | 空間建立頁，可 silent |"
+    }
+  ]
+}

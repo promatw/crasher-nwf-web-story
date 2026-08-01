@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p05",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p05_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p05_art_v02.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p05"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p05_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "影子，開始動了。",
+      "box": {
+        "x": 79.72221692403157,
+        "y": 52.685180770026314,
+        "width": 18.194449742635094,
+        "height": 11.041666666666666,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p05_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那邊！",
+      "box": {
+        "x": 80.76388359069824,
+        "y": 4.486111111111112,
+        "width": 19.236116409301758,
+        "height": 9.884259700775146,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p05_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "不對，不只一個。",
+      "box": {
+        "x": 78.45138359069823,
+        "y": 69.94444444444444,
+        "width": 15.590283075968424,
+        "height": 10.810183419121637,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "018_p09b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_018_p09b_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep29_018_p09b_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "018",
+    "pageCode": "p09b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "所有人退後！",
+      "box": {
+        "x": 14.244791666666668,
+        "y": 6.46563766688804,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "unknown",
+      "note": "來源標示：外圍警備隊；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "不要造成附近居民困擾！",
+      "box": {
+        "x": 71.82291666666667,
+        "y": 5.8488790161907165,
+        "width": 25.442708333333336,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "unknown",
+      "note": "來源標示：外圍警備隊；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "鰻",
+      "box": {
+        "x": 14.432291666666666,
+        "y": 26.41058465202556,
+        "width": 13.59375,
+        "height": 8.680926099800764,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 72,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那些人到底是誰？",
+      "box": {
+        "x": 16.21875,
+        "y": 71.30187555820184,
+        "width": 26.354166666666668,
+        "height": 9.780154349966795,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：飛車黨C；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "政府的？還是當地人的保安？",
+      "box": {
+        "x": 15.921875000000004,
+        "y": 77.2072045251563,
+        "width": 27.135416666666668,
+        "height": 9.706872466622393,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：飛車黨A；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "喂，情報是不是錯了？",
+      "box": {
+        "x": 67.109375,
+        "y": 76.88952756085831,
+        "width": 22.578125,
+        "height": 8.827489866489568,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：飛車黨A；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_018_p09b_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "少囉嗦，門一定在這附近！",
+      "box": {
+        "x": 66.55208333333334,
+        "y": 81.91547392767994,
+        "width": 25.572916666666664,
+        "height": 9.26718116655598,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：飛車黨B；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    }
+  ]
+}

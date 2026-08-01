@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "007_p05a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_007_p05a_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_007_p05a_v01.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "007",
+    "pageCode": "p05a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_007_p05a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "兩位這邊請!",
+      "box": {
+        "x": 7.777783075968425,
+        "y": 3.842591709560818,
+        "width": 12.118050257364908,
+        "height": 11.967591709560818,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_007_p05a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "還好，看來有救了!!",
+      "box": {
+        "x": 82.67360051472981,
+        "y": 33.18981393178304,
+        "width": 14.375,
+        "height": 14.398147265116373,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_007_p05a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "應該不會太難的工作吧?!",
+      "box": {
+        "x": 4.3194815317789725,
+        "y": 64.15740829043918,
+        "width": 10.902767181396486,
+        "height": 11.041671964857313,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

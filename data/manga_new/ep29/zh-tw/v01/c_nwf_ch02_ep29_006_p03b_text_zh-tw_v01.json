@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "006_p03b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_006_p03b_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_006_p03b_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "006",
+    "pageCode": "p03b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "每一座都像這裡？",
+      "box": {
+        "x": 12.942708333333332,
+        "y": 2.8748253830123436,
+        "width": 26.484375,
+        "height": 9.63359058327799,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b02",
+      "type": "narration",
+      "shape": "text-only",
+      "text": "不。",
+      "box": {
+        "x": 14.729166666666666,
+        "y": 54.581331440218015,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：場內說明；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b03",
+      "type": "narration",
+      "shape": "text-only",
+      "text": "這裡不是其中一座。",
+      "box": {
+        "x": 72.375,
+        "y": 33.958618636498954,
+        "width": 27.005208333333332,
+        "height": 9.560308699933588,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：場內說明；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b04",
+      "type": "narration",
+      "shape": "text-only",
+      "text": "這裡是所有方塊鎮的起點。",
+      "box": {
+        "x": 78.46354166666667,
+        "y": 85.73840657704905,
+        "width": 20.885416666666664,
+        "height": 9.487026816589186,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：場內說明；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "最大的!",
+      "box": {
+        "x": 29.072916666666664,
+        "y": 68.04696910710607,
+        "width": 14.505208333333332,
+        "height": 8.680926099800766,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_006_p03b_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "是最大和最先進的!",
+      "box": {
+        "x": 81.69270833333333,
+        "y": 66.19037259257564,
+        "width": 17.239583333333332,
+        "height": 9.340463049900382,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

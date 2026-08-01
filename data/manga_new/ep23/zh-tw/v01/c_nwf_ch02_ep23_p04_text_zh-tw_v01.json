@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep23",
+  "page": "p04",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep23_p04_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep23_p04_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p04"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep23_p04_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你只讓他停了一下。",
+      "box": {
+        "x": 74.0114696981257,
+        "y": 5.345503949901926,
+        "width": 17.304493781948576,
+        "height": 7.351136384085223,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep23_p04_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "下一次，他可能撐不住。",
+      "box": {
+        "x": 70.52437628747998,
+        "y": 19.710622446959746,
+        "width": 20.23422598611429,
+        "height": 10.230335966601285,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep23_p04_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我嗎?",
+      "box": {
+        "x": 27.323135220365707,
+        "y": 35.45775674362527,
+        "width": 10.142926171765723,
+        "height": 7.12080041748394,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

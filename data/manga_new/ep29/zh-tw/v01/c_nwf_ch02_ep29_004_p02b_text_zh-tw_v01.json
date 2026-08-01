@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "004_p02b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_004_p02b_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_004_p02b_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "004",
+    "pageCode": "p02b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_004_p02b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你們比我想像中早到。",
+      "box": {
+        "x": 6.041666666666668,
+        "y": 2.1420065495683236,
+        "width": 14.244791666666666,
+        "height": 8.607644216456363,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_004_p02b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "也比我想像中……更會忍。",
+      "box": {
+        "x": 38.036458333333336,
+        "y": 36.40742437080633,
+        "width": 14.375,
+        "height": 11.319073900199236,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_004_p02b_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭沒有忍。",
+      "box": {
+        "x": 4.276041666666666,
+        "y": 56.96913000664117,
+        "width": 11.380208333333336,
+        "height": 9.340463049900382,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 20,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_004_p02b_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯。會這樣說，通常就是在忍。",
+      "box": {
+        "x": 2.937499999999999,
+        "y": 85.37199716032703,
+        "width": 11.770833333333336,
+        "height": 10.219845650033205,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "002_p02a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_002_p02a_v05.png",
+    "artAsset": "c_nwf_ch02_ep21_002_p02a_v05.png",
+    "width": 1054,
+    "height": 1492,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "002",
+    "pageCode": "p02a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_002_p02a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "總不能\n一直\n待在 ... \n車頂吧?",
+      "box": {
+        "x": 79.82636769612631,
+        "y": 4.264128191887197,
+        "width": 16.805550257364906,
+        "height": 11.10380911573329,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_002_p02a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "進到車內休息，忍者會隱身?\n\n找不到人!",
+      "box": {
+        "x": 81.11111640930176,
+        "y": 52.04850077459895,
+        "width": 15.243050257364912,
+        "height": 16.62284065875887,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

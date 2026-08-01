@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "015_p08a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_015_p08a_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_015_p08a_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "015",
+    "pageCode": "p08a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "先讓門前安靜。",
+      "box": {
+        "x": 47.96875000000001,
+        "y": 3.9007717498339702,
+        "width": 14.895833333333336,
+        "height": 8.754207983145168,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "好。",
+      "box": {
+        "x": 11.734375,
+        "y": 0.9389928321157855,
+        "width": 19.84375,
+        "height": 8.827489866489568,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "往那邊。",
+      "box": {
+        "x": 28.755208333333336,
+        "y": 35.05784688666499,
+        "width": 24.270833333333336,
+        "height": 8.900771749833972,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：七星；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "別讓他回\n門前。",
+      "box": {
+        "x": 26.635416666666668,
+        "y": 47.55854535461562,
+        "width": 18.802083333333332,
+        "height": 9.926718116655598,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "忍者！",
+      "box": {
+        "x": 5.505208333333332,
+        "y": 64.45615682323036,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你不是一路都在找我們嗎？我們在這裡！",
+      "box": {
+        "x": 79.73958333333333,
+        "y": 66.70334577598643,
+        "width": 16.067708333333332,
+        "height": 9.560308699933588,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 22,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b07",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我跟你一起。",
+      "box": {
+        "x": 82.109375,
+        "y": 54.28820390684041,
+        "width": 14.635416666666668,
+        "height": 9.853436233311195,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_015_p08a_b08",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "引過來",
+      "box": {
+        "x": 51.28125000000001,
+        "y": 44.43792795474843,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 8,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

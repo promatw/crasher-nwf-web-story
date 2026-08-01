@@ -1,0 +1,110 @@
+﻿.annotator-app .reference-list {
+  display: grid;
+  gap: 7px;
+}
+
+.annotator-app .reference-option {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: start;
+  gap: 8px;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #101214;
+}
+
+.annotator-app .reference-option input {
+  width: 18px;
+  min-height: 18px;
+  margin-top: 2px;
+}
+
+.annotator-app .reference-option strong,
+.annotator-app .reference-option span {
+  display: block;
+}
+
+.annotator-app .reference-option span {
+  margin-top: 2px;
+  color: var(--muted);
+  overflow-wrap: anywhere;
+  font: 12px/1.35 ui-monospace, Consolas, monospace;
+}
+
+.annotation-layer {
+  position: absolute;
+  inset: 0;
+}
+
+.annotation-box {
+  position: absolute;
+  min-width: 4%;
+  min-height: 3%;
+  border: 2px solid #ff3b48;
+  background: rgba(255, 59, 72, 0.12);
+  color: #fff;
+  cursor: move;
+  touch-action: none;
+}
+
+.annotation-box.is-selected {
+  z-index: 2;
+  border-color: var(--accent);
+  background: rgba(231, 184, 75, 0.18);
+  box-shadow: 0 0 0 2px rgba(231, 184, 75, 0.35);
+}
+
+.annotation-badge {
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  min-width: 30px;
+  padding: 3px 6px;
+  border-radius: 0 0 6px 0;
+  color: var(--accent-ink);
+  background: var(--accent);
+  font: 700 12px/1.2 ui-monospace, Consolas, monospace;
+}
+
+.annotation-title {
+  position: absolute;
+  right: 4px;
+  bottom: 4px;
+  max-width: calc(100% - 8px);
+  padding: 3px 5px;
+  border-radius: 4px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.68);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 11px;
+  pointer-events: none;
+}
+
+.annotator-app[data-mode="preview"] .annotation-box {
+  background: rgba(255, 59, 72, 0.08);
+  cursor: default;
+}
+
+.annotator-app[data-mode="preview"] .resize-handle {
+  display: none;
+}
+
+.annotator-app .page-switch button.is-conditional {
+  border-style: dashed;
+}
+
+.annotator-app .page-switch button.is-conditional::after {
+  content: "!";
+  margin-left: 4px;
+  color: #d89b27;
+  font-weight: 700;
+}
+
+
+/* V0.1.1: keep canvas labels compact; full annotation copy lives in the side list/panel. */
+.annotation-title {
+  display: none;
+}

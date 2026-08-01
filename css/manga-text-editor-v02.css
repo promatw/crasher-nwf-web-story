@@ -1,0 +1,119 @@
+.box-list {
+  display: grid;
+  gap: 7px;
+  margin-top: 12px;
+}
+
+.box-list-item {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  min-height: 46px;
+  padding: 6px 8px;
+  text-align: left;
+}
+
+.box-list-item.is-selected {
+  border-color: var(--accent);
+  box-shadow: inset 3px 0 0 var(--accent);
+}
+
+.box-list-order {
+  color: var(--accent);
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 12px;
+}
+
+.box-list-copy {
+  min-width: 0;
+}
+
+.box-list-copy strong,
+.box-list-copy span {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.box-list-copy strong {
+  font-size: 13px;
+}
+
+.box-list-copy span {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.box-list-alert {
+  color: var(--danger);
+  font-size: 12px;
+}
+
+.selected-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+}
+
+.selected-heading strong {
+  display: block;
+  margin-top: 3px;
+  overflow-wrap: anywhere;
+  font: 12px/1.35 ui-monospace, Consolas, monospace;
+}
+
+.field-caption {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.danger-icon {
+  width: 36px;
+  min-height: 36px;
+  color: #ffdadd;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.edit-box {
+  z-index: 1;
+}
+
+.edit-box.is-selected {
+  z-index: 2;
+}
+
+.editor-app[data-mode="edit"] .edit-box:not(.is-selected) {
+  outline-color: rgba(200, 0, 22, 0.45);
+}
+
+.editor-app[data-mode="edit"] .edit-box:not(.is-selected) .resize-handle {
+  display: none;
+}
+
+.editor-app[data-mode="edit"] .edit-box.is-selected {
+  outline-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(231, 184, 75, 0.35);
+}
+
+.editor-app[data-mode="edit"] .edit-box.is-selected .box-id {
+  color: var(--accent-ink);
+  background: var(--accent);
+}
+
+.editor-app[data-mode="preview"] .edit-box {
+  outline: 0;
+  box-shadow: none;
+}
+
+.editor-app[data-mode="preview"] .edit-box.is-overflowing {
+  outline: 2px solid var(--danger);
+  box-shadow: inset 0 0 0 3px rgba(229, 107, 111, 0.35);
+}

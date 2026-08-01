@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "002_p01b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_002_p01b_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_002_p01b_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "002",
+    "pageCode": "p01b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_002_p01b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "博士，客人到了。",
+      "box": {
+        "x": 77.8125,
+        "y": 3.534362333111961,
+        "width": 19.192708333333332,
+        "height": 9.487026816589186,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：Worker；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_002_p01b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "嗯，辛苦了。",
+      "box": {
+        "x": 83.671875,
+        "y": 43.14935763849131,
+        "width": 13.723958333333332,
+        "height": 8.680926099800766,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_002_p01b_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "歡迎。這裡是方塊鎮總部。",
+      "box": {
+        "x": 4.927083333333331,
+        "y": 68.98735887512309,
+        "width": 12.682291666666664,
+        "height": 10.512973183410814,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "locale": "zh-tw",
+  "version": "v01",
+  "status": "awaiting-pm2-nana2-content",
+  "pages": {
+    "p01": [],
+    "p02": [],
+    "p03": [],
+    "p04": [],
+    "p05": [],
+    "p06": [],
+    "p07": [],
+    "p08": [],
+    "p09": [],
+    "p10": []
+  }
+}

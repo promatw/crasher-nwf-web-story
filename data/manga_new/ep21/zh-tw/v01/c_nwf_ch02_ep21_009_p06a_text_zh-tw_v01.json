@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "009_p06a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_009_p06a_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_009_p06a_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "009",
+    "pageCode": "p06a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_009_p06a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "看來我也得認真起來囉!\n\n怎能輸給\n石頭～",
+      "box": {
+        "x": 6.909732818603515,
+        "y": 6.474144880801566,
+        "width": 18.194449742635094,
+        "height": 16.265115743406657,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_009_p06a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "洗碗精好像加太多啦~ \n\n真滑 !!",
+      "box": {
+        "x": 6.222216924031575,
+        "y": 44.25663360697628,
+        "width": 14.027783075968426,
+        "height": 15.528043303005873,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_009_p06a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "得重洗\n　一遍了！",
+      "box": {
+        "x": 76.02083333333334,
+        "y": 70.36879276045866,
+        "width": 17.152767181396488,
+        "height": 10.491379752461707,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_009_p06a_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "水開太大了～\n噴的到處\n都是！",
+      "box": {
+        "x": 73.94443384806316,
+        "y": 86.28481220938184,
+        "width": 21.840283075968426,
+        "height": 11.474144880801566,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

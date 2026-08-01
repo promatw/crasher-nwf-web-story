@@ -1,0 +1,53 @@
+.episode-switch {
+  display: flex;
+  gap: 6px;
+  margin: 10px 0 6px;
+}
+
+.episode-switch button,
+.page-switch button {
+  min-width: 48px;
+}
+
+.page-switch button.is-conditional {
+  border-style: dashed;
+}
+
+.page-switch button.is-conditional::after {
+  content: "!";
+  margin-left: 4px;
+  color: #d89b27;
+  font-weight: 700;
+}
+
+@media (max-width: 720px) {
+  .episode-switch,
+  .page-switch {
+    overflow-x: auto;
+    padding-bottom: 4px;
+  }
+}
+
+.seed-candidate-button {
+  width: 100%;
+  margin: 6px 0;
+  padding: 8px 10px;
+  border: 1px solid rgba(231, 184, 75, 0.55);
+  border-radius: 6px;
+  background: rgba(231, 184, 75, 0.12);
+  color: var(--text);
+  text-align: left;
+  line-height: 1.35;
+  cursor: pointer;
+}
+
+.seed-candidate-button:hover,
+.seed-candidate-button:focus-visible {
+  border-color: var(--accent);
+  background: rgba(231, 184, 75, 0.22);
+}
+
+.seed-candidate-button small {
+  color: var(--muted);
+  font-size: 0.78rem;
+}

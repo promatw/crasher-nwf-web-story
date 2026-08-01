@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "012_p06b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_012_p06b_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep29_012_p06b_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "012",
+    "pageCode": "p06b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "是甚麼原因會失控呢？",
+      "box": {
+        "x": 3.046875,
+        "y": 1.3359058327799025,
+        "width": 14.895833333333336,
+        "height": 9.193899283211577,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 30,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你要明白... \n不是他想撕裂",
+      "box": {
+        "x": 62.125,
+        "y": 23.876222318913594,
+        "width": 13.723958333333332,
+        "height": 9.047335516522775,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 20,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b03",
+      "type": "narration",
+      "shape": "text-only",
+      "text": "外圍警戒區出現大量不明人員。",
+      "box": {
+        "x": 34.875,
+        "y": 34.69143746994298,
+        "width": 13.59375,
+        "height": 9.193899283211579,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 24,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：系統警報；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "怎麼回事？",
+      "box": {
+        "x": 5.546874999999986,
+        "y": 61.848512606773994,
+        "width": 13.463541666666668,
+        "height": 6.702315249501911,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "到入口附近了。",
+      "box": {
+        "x": 85.88541666666669,
+        "y": 44.303638903519825,
+        "width": 11.119791666666664,
+        "height": 8.241234799734354,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 22,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "unknown",
+      "note": "來源標示：富塚；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_012_p06b_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "忍者也在。",
+      "box": {
+        "x": 85.88541666666667,
+        "y": 82.82536011175489,
+        "width": 13.984374999999998,
+        "height": 6.116060182746696,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "006_p04b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_006_p04b_replacement_a1_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_006_p04b_replacement_a1_v01.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "006",
+    "pageCode": "p04b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_006_p04b_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "搭車需要\n買票喔?!\n\n有不用票的車廂嗎?",
+      "box": {
+        "x": 79.02775128682455,
+        "y": 4.773557126756221,
+        "width": 17.32641537984212,
+        "height": 14.51388888888889,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_006_p04b_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "不用票的\n車廂?\n很難吧!!",
+      "box": {
+        "x": 70.45833333333333,
+        "y": 47.026900379125706,
+        "width": 19.0625,
+        "height": 11.27314461602105,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_006_p04b_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "沒票可以搭車的嗎?",
+      "box": {
+        "x": 70.98611640930174,
+        "y": 57.15225351267279,
+        "width": 18.368082046508793,
+        "height": 7.596951073577681,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_006_p04b_b04",
+      "type": "caption",
+      "shape": "ellipse",
+      "text": "打工可抵票喔!",
+      "box": {
+        "x": 90.26393127441405,
+        "y": 68.44068024621512,
+        "width": 8.298616409301756,
+        "height": 12.934077672113762,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

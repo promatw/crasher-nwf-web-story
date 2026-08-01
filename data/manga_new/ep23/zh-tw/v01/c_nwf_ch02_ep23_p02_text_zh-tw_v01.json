@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep23",
+  "page": "p02",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep23_p02_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep23_p02_art_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p02"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep23_p02_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你剛剛讓石頭人的撕裂停下來了。",
+      "box": {
+        "x": 5.325525800462857,
+        "y": 5.2303359666012845,
+        "width": 15.351338979171434,
+        "height": 13.915711432221842,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep23_p02_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "不是打贏。",
+      "box": {
+        "x": 35.36758983749142,
+        "y": 49.1936261719242,
+        "width": 14.049235777320007,
+        "height": 11.842687732810278,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep23_p02_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "只是停住。\n\n暫時的 ......\n\n停住 ......",
+      "box": {
+        "x": 81.84870679789425,
+        "y": 77.6092386316604,
+        "width": 16.490679280791433,
+        "height": 17.71625488114304,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "推測候選；非原始 seed；需 HM 審核; confidence=inferred; needsReview=true"
+    }
+  ]
+}

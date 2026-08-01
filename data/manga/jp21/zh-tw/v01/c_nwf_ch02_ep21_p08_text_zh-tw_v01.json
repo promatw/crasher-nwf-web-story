@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p08",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P08_shadow_between_train_cars_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p08_art_v01.webp",
+    "width": 1103,
+    "height": 1426
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p08_b01",
+      "type": "reaction",
+      "shape": "text-only",
+      "text": "等一下。",
+      "box": {
+        "x": 76.18183440179898,
+        "y": 8.469199846020437,
+        "width": 18.570388593531508,
+        "height": 10.335726836028611,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p08_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "你也聽\n到了嗎?",
+      "box": {
+        "x": 67.30545706262217,
+        "y": 38.32032605209019,
+        "width": 24.936247708656776,
+        "height": 10.44763680593473,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p08_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "...  ...  ......",
+      "box": {
+        "x": 10.974502262434449,
+        "y": 57.20430287056803,
+        "width": 14.37471811461544,
+        "height": 10.223819939812238,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p08_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "別出聲。",
+      "box": {
+        "x": 0,
+        "y": 79.22175577272745,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p08_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "...  ...  ......",
+      "box": {
+        "x": 77.25011617154857,
+        "y": 79.19301222455591,
+        "width": 18.425713589746543,
+        "height": 9.888093103783627,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

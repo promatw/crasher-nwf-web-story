@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p09",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P09_ninja_shadow_hook_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p09_art_v01.webp",
+    "width": 1103,
+    "height": 1426
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p09_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "退後。",
+      "box": {
+        "x": 5.907391784821765,
+        "y": 9.924021770575617,
+        "width": 22.18735905730772,
+        "height": 9.664270090281645,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "golem",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p09_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "有人在那裡。",
+      "box": {
+        "x": 75.84150481395663,
+        "y": 7.433266568693832,
+        "width": 18.281038585961582,
+        "height": 9.44045168731428,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "raimondo",
+      "note": ""
+    }
+  ]
+}

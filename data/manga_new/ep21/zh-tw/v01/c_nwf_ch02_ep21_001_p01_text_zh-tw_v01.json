@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "001_p01",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_001_p01_v02.png",
+    "artAsset": "c_nwf_ch02_ep21_001_p01_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "001",
+    "pageCode": "p01"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_001_p01_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "大堡礁\n的月台\n一場混亂",
+      "box": {
+        "x": 1.5625,
+        "y": 4.140084027337902,
+        "width": 23.75,
+        "height": 9.385771091860532,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_001_p01_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "石頭和多多追上列車",
+      "box": {
+        "x": 79.13888359069826,
+        "y": 65.38603606724347,
+        "width": 18.020833333333336,
+        "height": 7.788777055381205,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_001_p01_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "列車把\n三人載走",
+      "box": {
+        "x": 0.3472328186035156,
+        "y": 75.40546474612748,
+        "width": 21.493066151936848,
+        "height": 10.859915972662098,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

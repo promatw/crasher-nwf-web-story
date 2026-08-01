@@ -1,0 +1,206 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep26",
+  "sourceEpisode": "JP26",
+  "locale": "zh-tw",
+  "version": "v01",
+  "seedTextStatus": "draft_candidate",
+  "autoApply": false,
+  "needsHmReview": true,
+  "confidence": "draft_from_package",
+  "needsReview": true,
+  "sourceZip": "JP26_clean_art_package_v01.zip",
+  "sourceFiles": {
+    "seedText": "JP26_clean_art_package_v01/text/seed_text.md",
+    "bubbleMap": "JP26_clean_art_package_v01/text/bubble_map.md",
+    "finalSeedStatus": "JP26_clean_art_package_v01/text/final_seed_status.md"
+  },
+  "pages": {
+    "001_p01a": [
+      {
+        "seedId": "ep26_001_p01a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "先看石頭。",
+        "note": "承接 JP25，看向石頭人。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "003_p02a": [
+      {
+        "seedId": "ep26_003_p02a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "等一下。",
+        "note": "少年式急停。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "004_p02b": [
+      {
+        "seedId": "ep26_004_p02b_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "石頭，看我！",
+        "note": "叫住石頭人，不是成熟指揮。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "006_p03b": [
+      {
+        "seedId": "ep26_006_p03b_s01",
+        "type": "dialogue",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "……還能忍。",
+        "note": "可視畫面改 silent。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "007_p04a": [
+      {
+        "seedId": "ep26_007_p04a_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "我過去。",
+        "note": "靠近石頭人，不攻擊。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "008_p04b": [
+      {
+        "seedId": "ep26_008_p04b_s01",
+        "type": "dialogue",
+        "speaker": "raimondo",
+        "readingOrder": 1,
+        "text": "不要看那些影子，看我。",
+        "note": "核心句候選，需依 clean art 強度調整。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "010_p05b": [
+      {
+        "seedId": "ep26_010_p05b_s01",
+        "type": "dialogue",
+        "speaker": "stone_golem",
+        "readingOrder": 1,
+        "text": "停住了。",
+        "note": "不能寫成完全恢復。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "011_p06a": [
+      {
+        "seedId": "ep26_011_p06a_s01",
+        "type": "caption",
+        "speaker": "system",
+        "readingOrder": 1,
+        "text": "180 秒結束。",
+        "note": "不可 WIN / CLEAR / SUCCESS。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "013_p07a": [
+      {
+        "seedId": "ep26_013_p07a_s01",
+        "type": "dialogue",
+        "speaker": "grandma",
+        "readingOrder": 1,
+        "text": "這樣就夠了。",
+        "note": "老奶奶判定，不熱血。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "015_p08b": [
+      {
+        "seedId": "ep26_015_p08b_s01",
+        "type": "dialogue",
+        "speaker": "qi/grandma",
+        "readingOrder": 1,
+        "text": "現在，你知道要看哪裡了。",
+        "note": "七的大氣場回來，但不解釋真身。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ],
+    "016_p09a": [
+      {
+        "seedId": "ep26_016_p09a_s01",
+        "type": "dialogue",
+        "speaker": "grandma/qi",
+        "readingOrder": 1,
+        "text": "好好挑一台吧。",
+        "note": "新版結尾：指向電梯 / 地下入口；不出現重機 / HUD / 京都。; Imported from package seed_text.md table; draft candidate; HM review required.",
+        "confidence": "draft_from_package_table",
+        "needsReview": true
+      }
+    ]
+  },
+  "omittedCandidates": [
+    {
+      "page": "002_p01b",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP26_002_p01b | none | sfx/minimal | minimal | [silent] | 唰。 / 沙…… | 幻影仍在，但不搶主軸。 |"
+    },
+    {
+      "page": "005_p03a",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP26_005_p03a | none | silent | silent | [silent] |  | 石頭人手部不穩，靠畫面。 |"
+    },
+    {
+      "page": "009_p05a",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP26_009_p05a | none | sfx/minimal | minimal | [silent] | 呼…… | 幻影壓力減弱，不是被打敗。 |"
+    },
+    {
+      "page": "012_p06b",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP26_012_p06b | none | silent | silent | [silent] |  | 安靜收束。 |"
+    },
+    {
+      "page": "014_p08a",
+      "reason": "silent_or_empty_table_row",
+      "sourceLine": "| JP26_014_p08a | none | silent/hook | silent | [silent] |  | 老奶奶輪廓與氣場異常，靠畫面。 |"
+    },
+    {
+      "page": "002_p01b",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP26_002_p01b | none | sfx/minimal | minimal | [silent] | 唰。 / 沙…… | 幻影仍在，但不搶主軸。 |"
+    },
+    {
+      "page": "005_p03a",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP26_005_p03a | none | silent | silent | [silent] |  | 石頭人手部不穩，靠畫面。 |"
+    },
+    {
+      "page": "009_p05a",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP26_009_p05a | none | sfx/minimal | minimal | [silent] | 呼…… | 幻影壓力減弱，不是被打敗。 |"
+    },
+    {
+      "page": "012_p06b",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP26_012_p06b | none | silent | silent | [silent] |  | 安靜收束。 |"
+    },
+    {
+      "page": "014_p08a",
+      "reason": "silent_or_none",
+      "sourceLine": "| JP26_014_p08a | none | silent/hook | silent | [silent] |  | 老奶奶輪廓與氣場異常，靠畫面。 |"
+    }
+  ]
+}

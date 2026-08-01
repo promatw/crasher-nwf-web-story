@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p02",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P02_sea_train_appears_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p02_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p02_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "海上列車，加速飛奔。\n連接著不同的土地。\n",
+      "box": {
+        "x": 68.23825455377768,
+        "y": 1.3308364000928097,
+        "width": 31.085152254864518,
+        "height": 9.959670934768083,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "narration",
+      "note": "JP21_P02_AREA01"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p02_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "石頭，酷耶 ~ 我們真的在海上跑 !!",
+      "box": {
+        "x": 68.05721596781608,
+        "y": 37.42609428512591,
+        "width": 28.951327200831933,
+        "height": 7.605112712900364,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "raimondo",
+      "note": "JP21_P02_AREA02"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p02_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "新的挑戰\n即將到來!",
+      "box": {
+        "x": 76.94790936910523,
+        "y": 72.9900835726401,
+        "width": 22.621384068662607,
+        "height": 8.771530439787986,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

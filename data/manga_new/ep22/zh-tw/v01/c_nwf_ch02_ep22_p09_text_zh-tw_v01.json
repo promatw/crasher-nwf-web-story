@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p09",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p09_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep22_p09_art_v02.png",
+    "width": 971,
+    "height": 1619,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false,
+    "readingIndex": null,
+    "pageCode": "p09"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p09_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "石頭! 防守就好，這裡是都市，人很多！",
+      "box": {
+        "x": 66.28471692403158,
+        "y": 3.646385752867938,
+        "width": 23.05555025736491,
+        "height": 12.4989830817404,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p09_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "恢復者的控場",
+      "box": {
+        "x": 81.04861640930177,
+        "y": 47.42186726497463,
+        "width": 13.50693384806315,
+        "height": 9.895874910522156,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p09_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "好",
+      "box": {
+        "x": 40.256949742635086,
+        "y": 58.50231615228446,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep22_p09_b04",
+      "type": "caption",
+      "shape": "rectangle",
+      "text": "忍者突然收手。",
+      "box": {
+        "x": 64.04861640930176,
+        "y": 93.53135926151573,
+        "width": 26.354166666666668,
+        "height": 5.0020326449112105,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

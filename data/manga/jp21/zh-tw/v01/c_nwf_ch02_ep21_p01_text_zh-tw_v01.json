@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p01",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P01_recap_sea_train_transition_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p01_art_v01.webp",
+    "width": 1024,
+    "height": 1536
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p01_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "上一場衝突，\n還在震。",
+      "box": {
+        "x": 76.41906139269958,
+        "y": 2.0070953640632516,
+        "width": 19.591572704871815,
+        "height": 9.753215561617264,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "narration",
+      "note": "JP21_P01_AREA01"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p01_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "列車把他們推向下一站。新的旅程，出發!",
+      "box": {
+        "x": 65.38083862863928,
+        "y": 69.24257350895104,
+        "width": 30.974518157293137,
+        "height": 11.570952316060993,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "narration",
+      "note": "JP21_P01_AREA03"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p01_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "咻 ~",
+      "box": {
+        "x": 82.30102756287708,
+        "y": 43.7683049956268,
+        "width": 14.953434024613983,
+        "height": 6.431262579455748,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

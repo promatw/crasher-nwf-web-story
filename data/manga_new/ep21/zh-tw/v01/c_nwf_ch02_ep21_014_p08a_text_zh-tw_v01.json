@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "014_p08a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_014_p08a_v02.png",
+    "artAsset": "c_nwf_ch02_ep21_014_p08a_v02.png",
+    "width": 1055,
+    "height": 1491,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "014",
+    "pageCode": "p08a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_014_p08a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "累死了～\n不用車票的車廂！",
+      "box": {
+        "x": 6.736100514729817,
+        "y": 4.754309420842091,
+        "width": 15.41668256123861,
+        "height": 15.405198364890447,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_014_p08a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我沒有打工的天分，石頭你真行啊！",
+      "box": {
+        "x": 10.041682561238606,
+        "y": 44.993704641522946,
+        "width": 15.763899485270182,
+        "height": 13.193979637833985,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_014_p08a_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "縮小腹應該能打掃廁所吧 ?！\n(還惦記著剛剛的任務)",
+      "box": {
+        "x": 76.02084922790527,
+        "y": 72.70285642563056,
+        "width": 18.19444974263509,
+        "height": 15.650881211850743,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

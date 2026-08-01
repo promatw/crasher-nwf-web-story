@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "014_p07b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_014_p07b_art_v02.png",
+    "artAsset": "c_nwf_ch02_ep29_014_p07b_art_v02.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "014",
+    "pageCode": "p07b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "這些人全是來找方塊鎮的？",
+      "box": {
+        "x": 14.505208333333334,
+        "y": 1.5557514828131085,
+        "width": 19.973958333333336,
+        "height": 8.241234799734354,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他們還沒找到。",
+      "box": {
+        "x": 5.875,
+        "y": 42.34325692170289,
+        "width": 15.15625,
+        "height": 7.36185219960153,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：七星；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "但有人知道該往哪找。",
+      "box": {
+        "x": 3.6249999999999987,
+        "y": 52.938626422699066,
+        "width": 16.718750000000004,
+        "height": 7.874825383012343,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：七星；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b04",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "忍者。",
+      "box": {
+        "x": 55.15104166666667,
+        "y": 40.88989397027504,
+        "width": 19.84375,
+        "height": 7.948107266356745,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b05",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他根本沒在看我們。",
+      "box": {
+        "x": 49.645833333333336,
+        "y": 61.011908306043466,
+        "width": 16.328125,
+        "height": 10.73281883344402,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_014_p07b_b06",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "他在找入口。",
+      "box": {
+        "x": 26.484374999999996,
+        "y": 79.23454782787917,
+        "width": 19.0625,
+        "height": 9.780154349966795,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 26,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": "unknown",
+      "note": "來源標示：石頭人；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    }
+  ]
+}

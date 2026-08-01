@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p03",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P03_cabin_contrast_raimondo_golem_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p03_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p03_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "你坐得下嗎？",
+      "box": {
+        "x": 7,
+        "y": 9.5,
+        "width": 17.8,
+        "height": 14.1,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "raimondo",
+      "note": "JP21_P03_AREA01"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p03_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "大家都換座位了，你還這麼冷靜？",
+      "box": {
+        "x": 1.6,
+        "y": 32.2,
+        "width": 22.7,
+        "height": 18.1,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "raimondo",
+      "note": "JP21_P03_AREA03"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p03_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "座位很勇敢。",
+      "box": {
+        "x": 80.07017274135052,
+        "y": 87.62372463351001,
+        "width": 17.92979546893211,
+        "height": 11.781025916662195,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "golem",
+      "note": "JP21_P03_AREA05"
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p03_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "這節車廂沒人耶 ~ \n真安靜!",
+      "box": {
+        "x": 78.68070686026076,
+        "y": 8.40074119586693,
+        "width": 17.847013574606695,
+        "height": 13.685400245430735,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p03_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "該不會在躲你吧 ?!",
+      "box": {
+        "x": 3.2982090070601013,
+        "y": 68.71291251106277,
+        "width": 14.37473400947413,
+        "height": 9.488140494980097,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

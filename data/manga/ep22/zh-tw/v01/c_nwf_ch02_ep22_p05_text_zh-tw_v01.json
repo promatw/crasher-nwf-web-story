@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep22",
+  "page": "p05",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep22_p05_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep22_p05_art_v01.png",
+    "width": 1024,
+    "height": 1536,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": false
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep22_p05_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "咦 ~~",
+      "box": {
+        "x": 7.734375,
+        "y": 55.26041666666667,
+        "width": 11.25,
+        "height": 9.565972222222221,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

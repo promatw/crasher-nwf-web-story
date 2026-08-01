@@ -1,0 +1,4 @@
+﻿User-agent: *
+Disallow:
+Sitemap: https://promatw.github.io/crasher-nwf-web-story/sitemap.xml
+

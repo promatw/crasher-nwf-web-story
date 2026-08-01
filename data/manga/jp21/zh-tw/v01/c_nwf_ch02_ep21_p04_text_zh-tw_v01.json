@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p04",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P04_ticket_check_train_contrast_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p04_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p04_b01",
+      "type": "reaction",
+      "shape": "text-only",
+      "text": "這個…\n該怎麼辦呢?\n\n\n沒票就\n搭上車\n糟了!",
+      "box": {
+        "x": 0.8680659175684724,
+        "y": 32.640481455651006,
+        "width": 11.33647945569646,
+        "height": 22.694148902967807,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p04_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "請出示您的車票。",
+      "box": {
+        "x": 6.076493212696653,
+        "y": 80.865255580535,
+        "width": 16.400223799610337,
+        "height": 12.559303148569722,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "conductor",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p04_b03",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "多多，這是在做什麼？",
+      "box": {
+        "x": 82.73171823025054,
+        "y": 0,
+        "width": 17.26828176974946,
+        "height": 14.299632213801639,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "passenger",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p04_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "搭車需要買票嗎?",
+      "box": {
+        "x": 84.17850005781754,
+        "y": 31.84396782160373,
+        "width": 14.085336317328137,
+        "height": 10.204744926702002,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

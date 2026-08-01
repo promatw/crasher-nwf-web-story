@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p07",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P07_magnetic_algae_sea_train_omen_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p07_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p07_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "窗外，光變了。",
+      "box": {
+        "x": 8.038246606348327,
+        "y": 3.464418673205188,
+        "width": 13.217286294618358,
+        "height": 11.433208863443811,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "narration",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p07_b02",
+      "type": "reaction",
+      "shape": "text-only",
+      "text": "咦?\n那是什麼？",
+      "box": {
+        "x": 1.332042008522029,
+        "y": 30.088665592133975,
+        "width": 17.268305612037494,
+        "height": 11.12609428512591,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p07_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "車廂後面......",
+      "box": {
+        "x": 75.64246820134176,
+        "y": 62.44574796483801,
+        "width": 24.357531798658236,
+        "height": 9.897624724913896,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

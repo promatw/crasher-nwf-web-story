@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep29",
+  "page": "010_p05b",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep29_010_p05b_art_v01.png",
+    "artAsset": "c_nwf_ch02_ep29_010_p05b_art_v01.png",
+    "width": 941,
+    "height": 1672,
+    "assetType": "page",
+    "readyForTextLayerEditor": "selected",
+    "textLayerOptional": false,
+    "readingIndex": "010",
+    "pageCode": "p05b"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b01",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "我們來這裡，是想問抑制石頭撕裂力量的辦法。",
+      "box": {
+        "x": 36.11979166666667,
+        "y": 32.84711567087274,
+        "width": 21.927083333333332,
+        "height": 11.832047083610048,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b02",
+      "type": "dialogue",
+      "shape": "text-only",
+      "text": "那時候",
+      "box": {
+        "x": 5.484375,
+        "y": 54.068358256807194,
+        "width": 30,
+        "height": 10,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "unknown",
+      "note": "來源標示：雷蒙多；draft candidate，需 HM 審核; confidence=source_candidate; needsReview=true"
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b03",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "他快失控，",
+      "box": {
+        "x": 2.3229166666666665,
+        "y": 67.15531179151304,
+        "width": 12.421875,
+        "height": 11.099228250166028,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b04",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我的寶石突然亮了。",
+      "box": {
+        "x": 3.197916666666666,
+        "y": 86.10481599377104,
+        "width": 10.338541666666664,
+        "height": 11.465637666888039,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 28,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 4,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b05",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "有甚麼想問?",
+      "box": {
+        "x": 3.8124999999999973,
+        "y": 2.532965397210706,
+        "width": 12.552083333333336,
+        "height": 6.482469599468706,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 5,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b06",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "有...",
+      "box": {
+        "x": 51.09375,
+        "y": 1.1893420660910983,
+        "width": 21.40625,
+        "height": 8.094671033045548,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 6,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep29_010_p05b_b07",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "是我在銀座的分身投影，把他們導引到這裡來。",
+      "box": {
+        "x": 42.20312500000001,
+        "y": 88.95053472874253,
+        "width": 17.5,
+        "height": 9.340463049900382,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 22,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "left",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 7,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}

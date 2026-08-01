@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "p10",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "JP21_P10_lights_out_ninja_cliffhanger_BW_v01.png",
+    "artAsset": "c_nwf_ch02_ep21_p10_art_v01.webp",
+    "width": 1055,
+    "height": 1491
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_p10_b01",
+      "type": "reaction",
+      "shape": "text-only",
+      "text": "石頭……",
+      "box": {
+        "x": 0.5787159099985417,
+        "y": 28.750344015789803,
+        "width": 18.42572153717589,
+        "height": 9.488140494980097,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": "raimondo",
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_p10_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "燈暗了。",
+      "box": {
+        "x": 84.32317506160251,
+        "y": 5.007486582118917,
+        "width": 10.613072647054267,
+        "height": 13.071165465324727,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 3,
+      "speaker": "narration",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep28",
+  "packageVersion": "v01",
+  "sourceArtist": "mga2d",
+  "status": "color_clean_art_candidate",
+  "artStyle": "color_clean_art_candidate",
+  "namingProtocol": "c_nwf_ch02_ep##_v0.3",
+  "artDir": "art/selected",
+  "selectedCount": 18,
+  "formalAnchorCount": 3,
+  "referenceCount": 1,
+  "alternateCount": 1,
+  "seedStatus": "draft_by_mga2d / incomplete",
+  "seedTextPending": true,
+  "bubbleMap": "text/bubble_map.md",
+  "selectedLedger": "docs/selected_ledger.md",
+  "imageIndex": "docs/image_index.md",
+  "selectedVersions": "docs/selected_versions.md",
+  "pendingFixes": "docs/pending_fixes.md",
+  "workflowNote": "docs/workflow_note.md",
+  "handoffNote": "docs/handoff_note.md",
+  "readyForUxe1Intake": false,
+  "readyForFinalPublish": false,
+  "canvas_actual_width": 941,
+  "canvas_actual_height": 1672,
+  "aspect_ratio": "close_to_9_16",
+  "normalized_to_864x1536": false,
+  "replacements": [],
+  "removals": [],
+  "selectedImages": [
+    {
+      "page_id": "001_p01a",
+      "official_file": "c_nwf_ch02_ep28_001_p01a_art_v02.png",
+      "version": "v02",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "002_p01b",
+      "official_file": "c_nwf_ch02_ep28_002_p01b_art_v02.png",
+      "version": "v02",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "003_p02a",
+      "official_file": "c_nwf_ch02_ep28_003_p02a_art_v02.png",
+      "version": "v02",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "004_p02b",
+      "official_file": "c_nwf_ch02_ep28_004_p02b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "005_p03a",
+      "official_file": "c_nwf_ch02_ep28_005_p03a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "006_p03b",
+      "official_file": "c_nwf_ch02_ep28_006_p03b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "007_p04a",
+      "official_file": "c_nwf_ch02_ep28_007_p04a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "008_p04b",
+      "official_file": "c_nwf_ch02_ep28_008_p04b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "009_p05a",
+      "official_file": "c_nwf_ch02_ep28_009_p05a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "010_p05b",
+      "official_file": "c_nwf_ch02_ep28_010_p05b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "011_p06a",
+      "official_file": "c_nwf_ch02_ep28_011_p06a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "012_p06b",
+      "official_file": "c_nwf_ch02_ep28_012_p06b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "013_p07a",
+      "official_file": "c_nwf_ch02_ep28_013_p07a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "014_p07b",
+      "official_file": "c_nwf_ch02_ep28_014_p07b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "015_p08a",
+      "official_file": "c_nwf_ch02_ep28_015_p08a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "016_p08b",
+      "official_file": "c_nwf_ch02_ep28_016_p08b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "017_p09a",
+      "official_file": "c_nwf_ch02_ep28_017_p09a_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    },
+    {
+      "page_id": "018_p09b",
+      "official_file": "c_nwf_ch02_ep28_018_p09b_art_v01.png",
+      "version": "v01",
+      "package_status": "selected",
+      "imageSize": {
+        "width": 941,
+        "height": 1672
+      }
+    }
+  ],
+  "anchors": [
+    {
+      "official_file": "c_nwf_ch02_ep28_anchor_009_coffee_cup_pod_flat_conveyor_v03.png",
+      "role": "formal_anchor",
+      "note": "Pod 平面傳輸帶正式定錨"
+    },
+    {
+      "official_file": "c_nwf_ch02_ep28_anchor_010_qixing_sakura_kimono_variation_v02.png",
+      "role": "formal_anchor",
+      "note": "七星和服版正式定錨"
+    },
+    {
+      "official_file": "c_nwf_ch02_ep28_anchor_002_sakura_festival_yatai_goldfish_v02.png",
+      "role": "formal_anchor",
+      "note": "櫻花祭／撈金魚／居民生活感正式參考"
+    },
+    {
+      "official_file": "c_nwf_ch02_ep28_anchor_008_qixing_black_dress_ip_exam_v01.png",
+      "role": "reference",
+      "note": "七星本體 IP 基準；非正式 anchor"
+    }
+  ],
+  "alternates": [
+    {
+      "official_file": "c_nwf_ch02_ep28_anchor_011_qixing_christmas_party_variation_v02.png",
+      "role": "alternate_concept",
+      "note": "聖誕派對服概念；痣與臉部穩定度未完全通過"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1",
+  "project": "crasher-nwf",
+  "chapter": "ch02",
+  "episode": "ep21",
+  "page": "005_p04a",
+  "version": "v01",
+  "locale": "zh-tw",
+  "source": {
+    "sourceName": "c_nwf_ch02_ep21_005_p04a_v04.png",
+    "artAsset": "c_nwf_ch02_ep21_005_p04a_v04.png",
+    "width": 1122,
+    "height": 1402,
+    "assetType": "manga-page",
+    "readyForTextLayerEditor": "yes",
+    "textLayerOptional": true,
+    "readingIndex": "005",
+    "pageCode": "p04a"
+  },
+  "boxes": [
+    {
+      "id": "c_nwf_ch02_ep21_005_p04a_b01",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "我們好像沒有車票?!",
+      "box": {
+        "x": 19.23611640930176,
+        "y": 6.806219716822116,
+        "width": 16.979166666666668,
+        "height": 10.833637667703501,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 1,
+      "speaker": null,
+      "note": ""
+    },
+    {
+      "id": "c_nwf_ch02_ep21_005_p04a_b02",
+      "type": "caption",
+      "shape": "text-only",
+      "text": "錢包也沒帶\n到，身上只有\n一些零錢 ......\n\n這下該怎麼辦呢?!",
+      "box": {
+        "x": 6.048632303873697,
+        "y": 62.7698378626047,
+        "width": 18.888883590698242,
+        "height": 19.30899052702826,
+        "unit": "percent"
+      },
+      "style": {
+        "fontSize": 32,
+        "lineHeight": 1.25,
+        "writingMode": "horizontal-tb",
+        "textAlign": "center",
+        "verticalAlign": "middle",
+        "fontFamily": "system-cjk",
+        "color": "#111111",
+        "background": "transparent",
+        "border": "none"
+      },
+      "readingOrder": 2,
+      "speaker": null,
+      "note": ""
+    }
+  ]
+}
